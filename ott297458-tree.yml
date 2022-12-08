@@ -4,9 +4,9 @@ name: Ursidae
 attributes:
   hasChildren: true
   extant: true
-lineage:
-- id: mrcaott10732ott22064
-  name: Ursidae and Odobenidae
+  lineage:
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
 children:
 - id: mrcaott10732ott679667
   name: Ursus maritimus and Tremarctos
