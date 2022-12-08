@@ -1,93 +1,80 @@
 ---
 id: ott297458
 name: Ursidae
+attributes:
+  hasChildren: true
+  extant: true
+lineage:
+- id: mrcaott10732ott22064
+  name: Ursidae and Odobenidae
 children:
 - id: mrcaott10732ott679667
   name: Ursus maritimus and Tremarctos
   attributes:
-    id: mrcaott10732ott679667
     hasChildren: true
     extant: true
   children:
   - id: mrcaott10732ott297463
     name: Ursus maritimus and Melursus
     attributes:
-      id: mrcaott10732ott297463
       hasChildren: true
       extant: true
     children:
     - id: mrcaott10732ott153282
       name: Ursus maritimus and Ursus torquatus
       attributes:
-        id: mrcaott10732ott153282
         hasChildren: true
         extant: true
       children:
       - id: mrcaott10732ott7067610
         name: Ursus maritimus and Ursus spelaeus
         attributes:
-          id: mrcaott10732ott7067610
           hasChildren: true
           extant: true
       - id: ott153277
         name: Ursus deningeri
         attributes:
-          id: ott153277
           hasChildren: true
           extant: true
       - id: mrcaott300426ott679701
         name: Ursus thibetanus and Helarctos
         attributes:
-          id: mrcaott300426ott679701
           hasChildren: true
           extant: true
       - id: ott1063922
         name: Ursus ingressus
         attributes:
-          id: ott1063922
-          hasChildren: false
-          extant: true
-      - id: ott4941893
-        name: Ursus environmental sample
-        attributes:
-          id: ott4941893
           hasChildren: false
           extant: true
       - id: ott5835569
         name: Ursus rossicus
         attributes:
-          id: ott5835569
           hasChildren: false
           extant: true
       - id: ott7656106
         name: Ursus lasiotus
         attributes:
-          id: ott7656106
           hasChildren: false
           extant: true
       - id: ott7656107
         name: Ursus nasutus
         attributes:
-          id: ott7656107
           hasChildren: false
           extant: true
       - id: ott7656109
         name: Ursus torquatus
         attributes:
-          id: ott7656109
           hasChildren: false
           extant: true
     - id: ott679706
       name: Melursus
       attributes:
-        id: ott679706
         hasChildren: true
         extant: true
       children:
       - id: ott297463
         name: Melursus ursinus
         attributes:
-          id: ott297463
           hasChildren: false
           extant: true
   - id: ott297467
@@ -100,54 +87,46 @@ children:
     - id: ott679667
       name: Tremarctos ornatus
       attributes:
-        id: ott679667
         hasChildren: false
         extant: true
       children:
 - id: ott872566
   name: Ailuropoda
   attributes:
-    id: ott872566
     hasChildren: true
     extant: true
   children:
   - id: ott872573
     name: Ailuropoda melanoleuca
     attributes:
-      id: ott872573
       hasChildren: true
       extant: true
     children:
     - id: ott319802
       name: Ailuropoda melanoleuca qinlingensis
       attributes:
-        id: ott319802
         hasChildren: false
         extant: true
       children:
 - id: ott4117931
   name: Hyaenarctos
   attributes:
-    id: ott4117931
     hasChildren: true
     extant: true
   children:
   - id: ott7656094
     name: Hyaenarctos maraghanus
     attributes:
-      id: ott7656094
       hasChildren: false
       extant: true
   - id: ott7656095
     name: Hyaenarctos palaeindicus
     attributes:
-      id: ott7656095
       hasChildren: false
       extant: true
   - id: ott7656096
     name: Hyaenarctos punjabiensis
     attributes:
-      id: ott7656096
       hasChildren: false
       extant: true
   
