@@ -4,5 +4,8 @@ name: Tremarctos
 hasChildren: true
 extant: true
 parentId: mrcaott10732ott679667
+lineage:
+  - id: mrcaott10732ott679667
+    name: Ursus maritimus and Tremarctos
 children:
   - ott679667
