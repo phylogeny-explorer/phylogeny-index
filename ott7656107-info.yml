@@ -4,4 +4,7 @@ name: Ursus nasutus
 hasChildren: false
 extant: true
 parentId: mrcaott10732ott153282
+lineage:
+  - id: mrcaott10732ott153282
+    name: Ursus maritimus and Ursus torquatus
 children: []
