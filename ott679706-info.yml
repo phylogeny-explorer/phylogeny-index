@@ -8,4 +8,5 @@ lineage:
   - id: mrcaott10732ott297463
     name: Ursus maritimus and Melursus
 children:
-  - ott297463
+  - id: ott297463
+    name: Melursus ursinus
