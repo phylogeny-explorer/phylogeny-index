@@ -4,5 +4,8 @@ name: Ailuropoda melanoleuca
 hasChildren: true
 extant: true
 parentId: ott872566
+lineage:
+  - id: ott872566
+    name: Ailuropoda
 children:
   - ott319802
