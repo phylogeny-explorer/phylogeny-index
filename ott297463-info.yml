@@ -4,4 +4,7 @@ name: Melursus ursinus
 hasChildren: false
 extant: true
 parentId: ott679706
+lineage:
+  - id: ott679706
+    name: Melursus
 children: []
