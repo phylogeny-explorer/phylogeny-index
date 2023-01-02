@@ -4,6 +4,11 @@ name: Ursus maritimus and Tremarctos
 hasChildren: true
 extant: true
 parentId: ott297458
+lineage:
+  - id: ott297458
+    name: Ursidae
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
 children:
   - mrcaott10732ott297463
   - ott297467
