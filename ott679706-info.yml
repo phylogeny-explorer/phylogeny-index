@@ -4,5 +4,8 @@ name: Melursus
 hasChildren: true
 extant: true
 parentId: mrcaott10732ott297463
+lineage:
+  - id: mrcaott10732ott297463
+    name: Ursus maritimus and Melursus
 children:
   - ott297463
