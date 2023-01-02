@@ -8,4 +8,5 @@ lineage:
   - id: ott872566
     name: Ailuropoda
 children:
-  - ott319802
+  - id: ott319802
+    name: Ailuropoda melanoleuca qinlingensis
