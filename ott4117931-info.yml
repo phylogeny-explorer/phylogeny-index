@@ -3,3 +3,7 @@ id: ott4117931
 name: Hyaenarctos
 hasChildren: true
 extant: true
+children:
+  - ott7656094
+  - ott7656095
+  - ott7656096
