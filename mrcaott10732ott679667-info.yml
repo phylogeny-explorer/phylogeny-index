@@ -10,5 +10,7 @@ lineage:
   - id: mrcaott10732ott22064
     name: Ursidae and Odobenidae
 children:
-  - mrcaott10732ott297463
-  - ott297467
+  - id: mrcaott10732ott297463
+    name: Ursus maritimus and Melursus
+  - id: ott297467
+    name: Tremarctos
