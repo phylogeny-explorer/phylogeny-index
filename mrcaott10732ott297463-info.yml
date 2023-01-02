@@ -8,5 +8,7 @@ lineage:
   - id: mrcaott10732ott679667
     name: Ursus maritimus and Tremarctos
 children:
-  - mrcaott10732ott153282
-  - ott679706
+  - id: mrcaott10732ott153282
+    name: Ursus maritimus and Ursus torquatus
+  - id: ott679706
+    name: Melursus
