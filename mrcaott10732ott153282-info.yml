@@ -4,6 +4,9 @@ name: Ursus maritimus and Ursus torquatus
 hasChildren: true
 extant: true
 parentId: mrcaott10732ott297463
+lineage:
+  - id: mrcaott10732ott297463
+    name: Ursus maritimus and Melursus
 children:
   - mrcaott10732ott7067610
   - ott153277
