@@ -6,6 +6,7 @@ extant: true
 lineage:
   - id: mrcaott10732ott22064
     name: Ursidae and Odobenidae
+parentId: mrcaott10732ott22064
 children:
   - mrcaott10732ott679667
   - ott872566
