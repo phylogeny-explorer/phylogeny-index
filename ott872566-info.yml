@@ -3,5 +3,6 @@ id: ott872566
 name: Ailuropoda
 hasChildren: true
 extant: true
+parentId: ott297458
 children:
   - ott872573
