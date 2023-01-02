@@ -10,6 +10,9 @@ lineage:
   - id: mrcaott10732ott22064
     name: Ursidae and Odobenidae
 children:
-  - ott7656094
-  - ott7656095
-  - ott7656096
+  - id: ott7656094
+    name: Hyaenarctos maraghanus
+  - id: ott7656095
+    name: Hyaenarctos palaeindicus
+  - id: ott7656096
+    name: Hyaenarctos punjabiensis
