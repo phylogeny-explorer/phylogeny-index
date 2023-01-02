@@ -10,4 +10,5 @@ lineage:
   - id: mrcaott10732ott22064
     name: Ursidae and Odobenidae
 children:
-  - ott872573
+  - id: ott872573
+    name: Ailuropoda melanoleuca
