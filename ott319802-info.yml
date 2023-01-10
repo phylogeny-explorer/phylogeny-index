@@ -7,4 +7,10 @@ parentId: ott872573
 lineage:
   - id: ott872573
     name: Ailuropoda melanoleuca
+  - id: ott872566
+    name: Ailuropoda
+  - id: ott297458
+    name: Ursidae
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
 children: []
