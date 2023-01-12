@@ -1,0 +1,16 @@
+---
+id: ott297458
+name: Ursidae
+hasChildren: true
+extant: true
+lineage:
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
+parentId: mrcaott10732ott22064
+children:
+  - id: mrcaott10732ott679667
+    name: Ursus maritimus and Tremarctos
+  - id: ott872566
+    name: Ailuropoda
+  - id: ott4117931
+    name: Hyaenarctos

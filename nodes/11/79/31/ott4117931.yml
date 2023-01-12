@@ -1,0 +1,18 @@
+---
+id: ott4117931
+name: Hyaenarctos
+hasChildren: true
+extant: true
+parentId: ott297458
+lineage:
+  - id: ott297458
+    name: Ursidae
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
+children:
+  - id: ott7656094
+    name: Hyaenarctos maraghanus
+  - id: ott7656095
+    name: Hyaenarctos palaeindicus
+  - id: ott7656096
+    name: Hyaenarctos punjabiensis

@@ -1,0 +1,16 @@
+---
+id: ott679667
+name: Tremarctos ornatus
+hasChildren: false
+extant: true
+parentId: ott297467
+lineage:
+  - id: ott297467
+    name: Tremarctos
+  - id: mrcaott10732ott679667
+    name: Ursus maritimus and Tremarctos
+  - id: ott297458
+    name: Ursidae
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
+children: []

@@ -1,0 +1,18 @@
+---
+id: ott297463
+name: Melursus ursinus
+hasChildren: false
+extant: true
+parentId: ott679706
+lineage:
+  - id: ott679706
+    name: Melursus
+  - id: mrcaott10732ott297463
+    name: Ursus maritimus and Melursus
+  - id: mrcaott10732ott679667
+    name: Ursus maritimus and Tremarctos
+  - id: ott297458
+    name: Ursidae
+  - id: mrcaott10732ott22064
+    name: Ursidae and Odobenidae
+children: []
