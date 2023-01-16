@@ -1,0 +1,323 @@
+---
+id: ott297458
+name: Ursidae
+attributes:
+  id: ott297458
+  leaves: 34
+  hasChildren: true
+  extant: true
+  rank: family
+  sources:
+    - ncbi:9632
+    - worms:136977
+    - gbif:9681
+    - irmng:104793
+  lineage:
+    - id: mrcaott10732ott22064
+      name: Ursidae and Odobenidae
+    - id: mrcaott4697ott10732
+      name: Mustelidae and Odobenidae
+    - id: ott827263
+      name: Caniformia
+    - id: mrcaott4697ott6940
+      name: Caniformia and Feliformia
+    - id: ott44565
+      name: Carnivora
+    - id: mrcaott4697ott263949
+      name: Carnivora and Pholidota
+    - id: mrcaott1548ott4697
+      name: Artiodactyla and Pholidota
+    - id: ott392223
+      name: Laurasiatheria
+    - id: ott5334778
+      name: Boreoeutheria
+    - id: ott683263
+      name: Eutheria
+    - id: ott229558
+      name: Theria
+    - id: ott244265
+      name: Mammalia
+    - id: ott229560
+      name: Amniota
+    - id: ott229562
+      name: Tetrapoda
+    - id: ott4940726
+      name: Dipnotetrapodomorpha
+    - id: ott458402
+      name: Sarcopterygii
+    - id: ott114654
+      name: Euteleostomi
+    - id: ott114656
+      name: Teleostomi
+    - id: ott278114
+      name: Gnathostomata
+    - id: ott801601
+      name: Vertebrata
+    - id: ott947318
+      name: Craniata
+    - id: mrcaott42ott658
+      name: Craniata and Tunicata
+    - id: ott125642
+      name: Chordata
+    - id: ott147604
+      name: Deuterostomia
+    - id: mrcaott42ott49
+      name: Deuterostomia and Protostomia
+    - id: ott117569
+      name: Bilateria
+    - id: mrcaott42ott150
+      name: Bilateria and Cnidaria
+    - id: mrcaott42ott570365
+      name: Bilateria and Placozoa
+    - id: mrcaott42ott3989
+      name: Bilateria and Porifera
+    - id: ott691846
+      name: Metazoa
+    - id: mrcaott42ott34294
+      name: Metazoa and Choanoflagellida
+    - id: ott5246131
+      name: Holozoa
+    - id: ott332573
+      name: Opisthokonta
+    - id: ott304358
+      name: Eukaryota
+    - id: ott93302
+      name: cellular organisms
+children:
+  - id: mrcaott10732ott679667
+    name: Ursus maritimus and Tremarctos
+    attributes:
+      id: mrcaott10732ott679667
+      leaves: 30
+      hasChildren: true
+      extant: true
+    children:
+      - id: mrcaott10732ott297463
+        name: Ursus maritimus and Melursus
+        attributes:
+          id: mrcaott10732ott297463
+          leaves: 29
+          hasChildren: true
+          extant: true
+        children:
+          - id: mrcaott10732ott153282
+            name: Ursus maritimus and Ursus torquatus
+            attributes:
+              id: mrcaott10732ott153282
+              leaves: 28
+              hasChildren: true
+              extant: true
+            children:
+              - id: mrcaott10732ott7067610
+                name: Ursus maritimus and Ursus spelaeus
+                attributes:
+                  id: mrcaott10732ott7067610
+                  leaves: 8
+                  hasChildren: true
+                  extant: true
+              - id: ott153277
+                name: Ursus deningeri
+                attributes:
+                  id: ott153277
+                  leaves: 1
+                  hasChildren: true
+                  extant: true
+                  rank: species
+                  sources:
+                    - ncbi:518691
+                    - gbif:7541326
+              - id: mrcaott300426ott679701
+                name: Ursus thibetanus and Helarctos
+                attributes:
+                  id: mrcaott300426ott679701
+                  leaves: 13
+                  hasChildren: true
+                  extant: true
+              - id: ott1063922
+                name: Ursus ingressus
+                attributes:
+                  id: ott1063922
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - ncbi:518689
+              - id: ott4941893
+                name: Ursus environmental sample
+                attributes:
+                  id: ott4941893
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - ncbi:1002253
+              - id: ott5835569
+                name: Ursus rossicus
+                attributes:
+                  id: ott5835569
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - ncbi:1530197
+              - id: ott7656106
+                name: Ursus lasiotus
+                attributes:
+                  id: ott7656106
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - gbif:9186994
+              - id: ott7656107
+                name: Ursus nasutus
+                attributes:
+                  id: ott7656107
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - gbif:9031155
+              - id: ott7656109
+                name: Ursus torquatus
+                attributes:
+                  id: ott7656109
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - gbif:8853386
+          - id: ott679706
+            name: Melursus
+            attributes:
+              id: ott679706
+              leaves: 1
+              hasChildren: true
+              extant: true
+              rank: genus
+              sources:
+                - ncbi:9635
+                - gbif:2433394
+                - irmng:1297743
+            children:
+              - id: ott297463
+                name: Melursus ursinus
+                attributes:
+                  id: ott297463
+                  leaves: 0
+                  hasChildren: false
+                  extant: true
+                  rank: species
+                  sources:
+                    - ncbi:9636
+                    - gbif:2433395
+                    - irmng:10223940
+      - id: ott297467
+        name: Tremarctos
+        attributes:
+          id: ott297467
+          leaves: 1
+          hasChildren: true
+          extant: true
+          rank: genus
+          sources:
+            - ncbi:9637
+            - gbif:2433400
+            - irmng:1119529
+        children:
+          - id: ott679667
+            name: Tremarctos ornatus
+            attributes:
+              id: ott679667
+              leaves: 0
+              hasChildren: false
+              extant: true
+              rank: species
+              sources:
+                - ncbi:9638
+                - gbif:2433401
+                - irmng:10223941
+  - id: ott872566
+    name: Ailuropoda
+    attributes:
+      id: ott872566
+      leaves: 1
+      hasChildren: true
+      extant: true
+      rank: genus
+      sources:
+        - ncbi:9645
+        - gbif:2433398
+        - irmng:1046302
+    children:
+      - id: ott872573
+        name: Ailuropoda melanoleuca
+        attributes:
+          id: ott872573
+          leaves: 1
+          hasChildren: true
+          extant: true
+          rank: species
+          sources:
+            - ncbi:9646
+            - gbif:2433399
+            - irmng:11403556
+        children:
+          - id: ott319802
+            name: Ailuropoda melanoleuca qinlingensis
+            attributes:
+              id: ott319802
+              leaves: 0
+              hasChildren: false
+              extant: true
+              rank: subspecies
+              sources:
+                - ncbi:944575
+  - id: ott4117931
+    name: Hyaenarctos
+    attributes:
+      id: ott4117931
+      leaves: 3
+      hasChildren: true
+      extant: true
+      rank: genus
+      sources:
+        - gbif:4833642
+        - irmng:1244979
+    children:
+      - id: ott7656094
+        name: Hyaenarctos maraghanus
+        attributes:
+          id: ott7656094
+          leaves: 0
+          hasChildren: false
+          extant: true
+          rank: species
+          sources:
+            - gbif:8765944
+      - id: ott7656095
+        name: Hyaenarctos palaeindicus
+        attributes:
+          id: ott7656095
+          leaves: 0
+          hasChildren: false
+          extant: true
+          rank: species
+          sources:
+            - gbif:8728765
+      - id: ott7656096
+        name: Hyaenarctos punjabiensis
+        attributes:
+          id: ott7656096
+          leaves: 0
+          hasChildren: false
+          extant: true
+          rank: species
+          sources:
+            - gbif:9008885
