@@ -1,8 +1,14 @@
 ---
 id: ott297463
 name: Melursus ursinus
+leaves: 0
 hasChildren: false
 extant: true
+rank: species
+sources:
+  - ncbi:9636
+  - gbif:2433395
+  - irmng:10223940
 parentId: ott679706
 lineage:
   - id: ott679706
@@ -15,4 +21,72 @@ lineage:
     name: Ursidae
   - id: mrcaott10732ott22064
     name: Ursidae and Odobenidae
+  - id: mrcaott4697ott10732
+    name: Mustelidae and Odobenidae
+  - id: ott827263
+    name: Caniformia
+  - id: mrcaott4697ott6940
+    name: Caniformia and Feliformia
+  - id: ott44565
+    name: Carnivora
+  - id: mrcaott4697ott263949
+    name: Carnivora and Pholidota
+  - id: mrcaott1548ott4697
+    name: Artiodactyla and Pholidota
+  - id: ott392223
+    name: Laurasiatheria
+  - id: ott5334778
+    name: Boreoeutheria
+  - id: ott683263
+    name: Eutheria
+  - id: ott229558
+    name: Theria
+  - id: ott244265
+    name: Mammalia
+  - id: ott229560
+    name: Amniota
+  - id: ott229562
+    name: Tetrapoda
+  - id: ott4940726
+    name: Dipnotetrapodomorpha
+  - id: ott458402
+    name: Sarcopterygii
+  - id: ott114654
+    name: Euteleostomi
+  - id: ott114656
+    name: Teleostomi
+  - id: ott278114
+    name: Gnathostomata
+  - id: ott801601
+    name: Vertebrata
+  - id: ott947318
+    name: Craniata
+  - id: mrcaott42ott658
+    name: Craniata and Tunicata
+  - id: ott125642
+    name: Chordata
+  - id: ott147604
+    name: Deuterostomia
+  - id: mrcaott42ott49
+    name: Deuterostomia and Protostomia
+  - id: ott117569
+    name: Bilateria
+  - id: mrcaott42ott150
+    name: Bilateria and Cnidaria
+  - id: mrcaott42ott570365
+    name: Bilateria and Placozoa
+  - id: mrcaott42ott3989
+    name: Bilateria and Porifera
+  - id: ott691846
+    name: Metazoa
+  - id: mrcaott42ott34294
+    name: Metazoa and Choanoflagellida
+  - id: ott5246131
+    name: Holozoa
+  - id: ott332573
+    name: Opisthokonta
+  - id: ott304358
+    name: Eukaryota
+  - id: ott93302
+    name: cellular organisms
 children: []

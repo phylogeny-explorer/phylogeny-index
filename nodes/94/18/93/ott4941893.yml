@@ -1,12 +1,12 @@
 ---
-id: ott7656106
-name: Ursus lasiotus
+id: ott4941893
+name: Ursus environmental sample
 leaves: 0
 hasChildren: false
 extant: true
 rank: species
 sources:
-  - gbif:9186994
+  - ncbi:1002253
 parentId: mrcaott10732ott153282
 lineage:
   - id: mrcaott10732ott153282
