@@ -1,6 +1,6 @@
 ---
 id: ott297458
-name: Bear
+name: Ursidae
 leaves: 34
 hasChildren: true
 extant: true
@@ -90,3 +90,5 @@ children:
   - id: ott4117931
     name: Hyaenarctos
 imageUrl: https://upload.wikimedia.org/wikipedia/commons/7/7f/European_Brown_Bear.jpg
+commonNames:
+  - Bear
