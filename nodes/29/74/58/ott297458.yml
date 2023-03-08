@@ -1,5 +1,5 @@
 ---
-version: "1.1"
+version: 1.1.1
 id: ott297458
 name: Ursidae
 rank: family
@@ -17,302 +17,185 @@ lineage:
     name: Ursidae and Odobenidae
     extant: true
     leaves: 85
-    hasChildren: true
   - id: mrcaott4697ott10732
     name: Mustelidae and Odobenidae
     extant: true
     leaves: 259
-    hasChildren: true
   - id: ott827263
     name: Caniformia
     rank: suborder
     extant: true
     leaves: 477
-    dataSources:
-      - ncbi:379584
-      - worms:254957
-    hasChildren: true
   - id: mrcaott4697ott6940
     name: Caniformia and Feliformia
     extant: true
     leaves: 737
-    hasChildren: true
   - id: ott44565
     name: Carnivora
     rank: order
     extant: true
     leaves: 739
-    dataSources:
-      - ncbi:33554
-      - worms:2687
-      - gbif:732
-      - irmng:12116
-    hasChildren: true
   - id: mrcaott4697ott263949
     name: Carnivora and Pholidota
     extant: true
     leaves: 747
-    hasChildren: true
   - id: mrcaott1548ott4697
     name: Artiodactyla and Pholidota
     extant: true
     leaves: 3510
-    hasChildren: true
   - id: ott392223
     name: Laurasiatheria
     rank: superorder
     extant: true
     leaves: 4227
-    dataSources:
-      - ncbi:314145
-    hasChildren: true
   - id: ott5334778
     name: Boreoeutheria
     rank: no rank
     extant: true
     leaves: 8605
-    dataSources:
-      - ncbi:1437010
-    hasChildren: true
   - id: ott683263
     name: Eutheria
     rank: no rank
     extant: true
     leaves: 8825
-    dataSources:
-      - ncbi:9347
-    hasChildren: true
   - id: ott229558
     name: Theria
     rank: subclass
     extant: true
     leaves: 9346
-    dataSources:
-      - ncbi:32525
-      - worms:380416
-    hasChildren: true
   - id: ott244265
     name: Mammalia
     rank: class
     extant: true
     leaves: 9352
-    dataSources:
-      - ncbi:40674
-      - worms:1837
-      - gbif:359
-      - irmng:1310
-    hasChildren: true
   - id: ott229560
     name: Amniota
     rank: no rank
     extant: true
     leaves: 41363
-    dataSources:
-      - ncbi:32524
-    hasChildren: true
   - id: ott229562
     name: Tetrapoda
     rank: superclass
     extant: true
     leaves: 51383
-    dataSources:
-      - ncbi:32523
-      - worms:1831
-    hasChildren: true
   - id: ott4940726
     name: Dipnotetrapodomorpha
     rank: no rank
     extant: true
     leaves: 51394
-    dataSources:
-      - ncbi:1338369
-    hasChildren: true
   - id: ott458402
     name: Sarcopterygii
     rank: superclass
     extant: true
     leaves: 51395
-    dataSources:
-      - ncbi:8287
-      - worms:163509
-      - gbif:238
-      - irmng:1531
-    hasChildren: true
   - id: ott114654
     name: Euteleostomi
     rank: no rank
     extant: true
     leaves: 89075
-    dataSources:
-      - ncbi:117571
-    hasChildren: true
   - id: ott114656
     name: Teleostomi
     rank: no rank
     extant: true
     leaves: 89075
-    dataSources:
-      - ncbi:117570
-    hasChildren: true
   - id: ott278114
     name: Gnathostomata
     rank: superclass
     extant: true
     leaves: 90733
-    dataSources:
-      - ncbi:7776
-      - worms:1828
-    hasChildren: true
   - id: ott801601
     name: Vertebrata
     rank: subphylum
     extant: true
     leaves: 90870
-    dataSources:
-      - ncbi:7742
-      - worms:146419
-    hasChildren: true
   - id: ott947318
     name: Craniata
     rank: subphylum
     extant: true
     leaves: 90870
-    dataSources:
-      - ncbi:89593
-    hasChildren: true
   - id: mrcaott42ott658
     name: Craniata and Tunicata
     extant: true
     leaves: 94180
-    hasChildren: true
   - id: ott125642
     name: Chordata
     rank: phylum
     extant: true
     leaves: 94214
-    dataSources:
-      - ncbi:7711
-      - worms:1821
-      - gbif:44
-      - irmng:148
-    hasChildren: true
   - id: ott147604
     name: Deuterostomia
     rank: no rank
     extant: true
     leaves: 103395
-    dataSources:
-      - ncbi:33511
-    hasChildren: true
   - id: mrcaott42ott49
     name: Deuterostomia and Protostomia
     extant: true
     leaves: 1471063
-    hasChildren: true
   - id: ott117569
     name: Bilateria
     rank: no rank
     extant: true
     leaves: 1471516
-    dataSources:
-      - ncbi:33213
-    hasChildren: true
   - id: mrcaott42ott150
     name: Bilateria and Cnidaria
     extant: true
     leaves: 1487309
-    hasChildren: true
   - id: mrcaott42ott570365
     name: Bilateria and Placozoa
     extant: true
     leaves: 1487313
-    hasChildren: true
   - id: mrcaott42ott3989
     name: Bilateria and Porifera
     extant: true
     leaves: 1497456
-    hasChildren: true
   - id: ott691846
     name: Metazoa
     rank: kingdom
     extant: true
     leaves: 1497816
-    dataSources:
-      - silva:D14357/#4
-      - ncbi:33208
-      - worms:2
-      - gbif:1
-      - irmng:11
-    hasChildren: true
   - id: mrcaott42ott34294
     name: Metazoa and Choanoflagellida
     extant: true
     leaves: 1498090
-    hasChildren: true
   - id: ott5246131
     name: Holozoa
     rank: no rank
     extant: true
     leaves: 1498236
-    dataSources:
-      - silva:D14357/#3
-    hasChildren: true
   - id: ott332573
     name: Opisthokonta
     rank: no rank
     extant: true
     leaves: 1774631
-    dataSources:
-      - silva:D11377/#2
-      - ncbi:33154
-      - irmng:183
-    hasChildren: true
   - id: ott304358
     name: Eukaryota
     rank: domain
     extant: true
     leaves: 2273496
-    dataSources:
-      - silva:D11377/#1
-      - ncbi:2759
-    hasChildren: true
   - id: ott93302
     name: cellular organisms
     rank: no rank
     extant: true
     leaves: 2392042
-    dataSources:
-      - ncbi:131567
-    hasChildren: true
 children:
   - id: mrcaott10732ott679667
     name: Ursus maritimus and Tremarctos
     extant: true
     leaves: 30
-    hasChildren: true
   - id: ott872566
     name: Ailuropoda
     rank: genus
     extant: true
     leaves: 1
-    dataSources:
-      - ncbi:9645
-      - gbif:2433398
-      - irmng:1046302
-    hasChildren: true
   - id: ott4117931
     name: Hyaenarctos
     rank: genus
     extant: true
     leaves: 3
-    dataSources:
-      - gbif:4833642
-      - irmng:1244979
-    hasChildren: true
 imageUrl: https://upload.wikimedia.org/wikipedia/commons/3/3d/Polar_Bear_AdF.jpg
 authorship: null
 commonNames:
   - bear
 sources:
-  - id: 701064e3-98cd-435c-9a1b-ce4f44459460
+  - id: c000b20c-22d6-49a6-8299-c3b5fc157139
     name: Mém. Soc. Imp. Nat. Moscow vol.5 p.372
