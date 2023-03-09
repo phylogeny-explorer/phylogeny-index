@@ -1,86 +1,194 @@
 ---
+version: 1.1.1
 id: ott7656096
 name: Hyaenarctos punjabiensis
-leaves: 0
-hasChildren: false
-extant: true
 rank: species
-sources:
+extant: true
+leaves: 0
+dataSources:
   - gbif:9008885
+hasChildren: false
 parentId: ott4117931
 lineage:
   - id: ott4117931
     name: Hyaenarctos
+    rank: genus
+    extant: true
+    leaves: 3
   - id: ott297458
     name: Ursidae
+    rank: family
+    extant: true
+    leaves: 34
   - id: mrcaott10732ott22064
     name: Ursidae and Odobenidae
+    extant: true
+    leaves: 85
   - id: mrcaott4697ott10732
     name: Mustelidae and Odobenidae
+    extant: true
+    leaves: 259
   - id: ott827263
     name: Caniformia
+    rank: suborder
+    extant: true
+    leaves: 477
   - id: mrcaott4697ott6940
     name: Caniformia and Feliformia
+    extant: true
+    leaves: 737
   - id: ott44565
     name: Carnivora
+    rank: order
+    extant: true
+    leaves: 739
   - id: mrcaott4697ott263949
     name: Carnivora and Pholidota
+    extant: true
+    leaves: 747
   - id: mrcaott1548ott4697
     name: Artiodactyla and Pholidota
+    extant: true
+    leaves: 3510
   - id: ott392223
     name: Laurasiatheria
+    rank: superorder
+    extant: true
+    leaves: 4227
   - id: ott5334778
     name: Boreoeutheria
+    rank: no rank
+    extant: true
+    leaves: 8605
   - id: ott683263
     name: Eutheria
+    rank: no rank
+    extant: true
+    leaves: 8825
   - id: ott229558
     name: Theria
+    rank: subclass
+    extant: true
+    leaves: 9346
   - id: ott244265
     name: Mammalia
+    rank: class
+    extant: true
+    leaves: 9352
   - id: ott229560
     name: Amniota
+    rank: no rank
+    extant: true
+    leaves: 41363
   - id: ott229562
     name: Tetrapoda
+    rank: superclass
+    extant: true
+    leaves: 51383
   - id: ott4940726
     name: Dipnotetrapodomorpha
+    rank: no rank
+    extant: true
+    leaves: 51394
   - id: ott458402
     name: Sarcopterygii
+    rank: superclass
+    extant: true
+    leaves: 51395
   - id: ott114654
     name: Euteleostomi
+    rank: no rank
+    extant: true
+    leaves: 89075
   - id: ott114656
     name: Teleostomi
+    rank: no rank
+    extant: true
+    leaves: 89075
   - id: ott278114
     name: Gnathostomata
+    rank: superclass
+    extant: true
+    leaves: 90733
   - id: ott801601
     name: Vertebrata
+    rank: subphylum
+    extant: true
+    leaves: 90870
   - id: ott947318
     name: Craniata
+    rank: subphylum
+    extant: true
+    leaves: 90870
   - id: mrcaott42ott658
     name: Craniata and Tunicata
+    extant: true
+    leaves: 94180
   - id: ott125642
     name: Chordata
+    rank: phylum
+    extant: true
+    leaves: 94214
   - id: ott147604
     name: Deuterostomia
+    rank: no rank
+    extant: true
+    leaves: 103395
   - id: mrcaott42ott49
     name: Deuterostomia and Protostomia
+    extant: true
+    leaves: 1471063
   - id: ott117569
     name: Bilateria
+    rank: no rank
+    extant: true
+    leaves: 1471516
   - id: mrcaott42ott150
     name: Bilateria and Cnidaria
+    extant: true
+    leaves: 1487309
   - id: mrcaott42ott570365
     name: Bilateria and Placozoa
+    extant: true
+    leaves: 1487313
   - id: mrcaott42ott3989
     name: Bilateria and Porifera
+    extant: true
+    leaves: 1497456
   - id: ott691846
     name: Metazoa
+    rank: kingdom
+    extant: true
+    leaves: 1497816
   - id: mrcaott42ott34294
     name: Metazoa and Choanoflagellida
+    extant: true
+    leaves: 1498090
   - id: ott5246131
     name: Holozoa
+    rank: no rank
+    extant: true
+    leaves: 1498236
   - id: ott332573
     name: Opisthokonta
+    rank: no rank
+    extant: true
+    leaves: 1774631
   - id: ott304358
     name: Eukaryota
+    rank: domain
+    extant: true
+    leaves: 2273496
   - id: ott93302
     name: cellular organisms
-children: []
+    rank: no rank
+    extant: true
+    leaves: 2392042
+imageUrl: null
+authorship:
+  name: Lydekker
+  year: 1884
+  isOriginalAuthor: false
+  sources: null
+commonNames: null
+sources: null
