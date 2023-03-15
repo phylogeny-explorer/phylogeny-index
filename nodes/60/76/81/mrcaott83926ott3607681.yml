@@ -1,0 +1,256 @@
+---
+version: 1.1.1
+id: mrcaott83926ott3607681
+name: Homo sapiens and Homo antecessor
+extant: true
+leaves: 4
+hasChildren: true
+parentId: mrcaott83926ott3607671
+lineage:
+  - id: mrcaott83926ott3607671
+    name: Homo sapiens and Homo erectus
+    extant: true
+    leaves: 5
+  - id: mrcaott83926ott3607678
+    name: Homo sapiens and Homo habilis
+    extant: true
+    leaves: 6
+  - id: ott770309
+    name: Homo
+    rank: genus
+    extant: true
+    leaves: 7
+  - id: mrcaott83926ott3607732
+    name: Homo and Praeanthropus
+    extant: true
+    leaves: 8
+  - id: mrcaott83926ott3607689
+    name: Homo and Paranthropus
+    extant: true
+    leaves: 11
+  - id: mrcaott83926ott3607716
+    name: Homo and Ardipithecus
+    extant: true
+    leaves: 12
+  - id: mrcaott83926ott3607687
+    name: Homo and Sahelanthropus
+    extant: true
+    leaves: 13
+  - id: mrcaott83926ott84217
+    name: Homo and Pan
+    extant: true
+    leaves: 19
+  - id: ott312031
+    name: Homininae
+    rank: subfamily
+    extant: true
+    leaves: 24
+  - id: mrcaott83926ott3607873
+    name: Homininae and Graecopithecus
+    extant: true
+    leaves: 25
+  - id: mrcaott83926ott3607876
+    name: Homininae and Pierolapithecus
+    extant: true
+    leaves: 27
+  - id: mrcaott83926ott770295
+    name: Homininae and Lufengpithecus
+    extant: true
+    leaves: 33
+  - id: mrcaott83926ott3607728
+    name: Homininae and Kalepithecus
+    extant: true
+    leaves: 34
+  - id: mrcaott83926ott6145147
+    name: Homininae and Morotopithecus
+    extant: true
+    leaves: 35
+  - id: mrcaott83926ott96938
+    name: Homininae and Hylobatidae
+    extant: true
+    leaves: 63
+  - id: mrcaott83926ott3607702
+    name: Homininae and Parapithecidae
+    extant: true
+    leaves: 69
+  - id: mrcaott786ott83926
+    name: Cercopithecoidea and Parapithecidae
+    extant: true
+    leaves: 308
+  - id: mrcaott786ott3607729
+    name: Cercopithecoidea and Micropithecus
+    extant: true
+    leaves: 309
+  - id: ott842867
+    name: Catarrhini
+    rank: parvorder
+    extant: true
+    leaves: 319
+  - id: ott386195
+    name: Simiiformes
+    rank: infraorder
+    extant: true
+    leaves: 541
+  - id: ott702152
+    name: Haplorrhini
+    rank: suborder
+    extant: true
+    leaves: 559
+  - id: mrcaott786ott3428
+    name: Haplorrhini and Oligopithecus
+    extant: true
+    leaves: 744
+  - id: ott913935
+    name: Primates
+    rank: order
+    extant: true
+    leaves: 747
+  - id: mrcaott786ott112387
+    name: Primates and Dermoptera
+    extant: true
+    leaves: 754
+  - id: ott392222
+    name: Euarchontoglires
+    rank: superorder
+    extant: true
+    leaves: 4378
+  - id: ott5334778
+    name: Boreoeutheria
+    rank: no rank
+    extant: true
+    leaves: 8605
+  - id: ott683263
+    name: Eutheria
+    rank: no rank
+    extant: true
+    leaves: 8825
+  - id: ott229558
+    name: Theria
+    rank: subclass
+    extant: true
+    leaves: 9346
+  - id: ott244265
+    name: Mammalia
+    rank: class
+    extant: true
+    leaves: 9352
+  - id: ott229560
+    name: Amniota
+    rank: no rank
+    extant: true
+    leaves: 41363
+  - id: ott229562
+    name: Tetrapoda
+    rank: superclass
+    extant: true
+    leaves: 51383
+  - id: ott4940726
+    name: Dipnotetrapodomorpha
+    rank: no rank
+    extant: true
+    leaves: 51394
+  - id: ott458402
+    name: Sarcopterygii
+    rank: superclass
+    extant: true
+    leaves: 51395
+  - id: ott114654
+    name: Euteleostomi
+    rank: no rank
+    extant: true
+    leaves: 89075
+  - id: ott114656
+    name: Teleostomi
+    rank: no rank
+    extant: true
+    leaves: 89075
+  - id: ott278114
+    name: Gnathostomata
+    rank: superclass
+    extant: true
+    leaves: 90733
+  - id: ott801601
+    name: Vertebrata
+    rank: subphylum
+    extant: true
+    leaves: 90870
+  - id: ott947318
+    name: Craniata
+    rank: subphylum
+    extant: true
+    leaves: 90870
+  - id: mrcaott42ott658
+    name: Craniata and Tunicata
+    extant: true
+    leaves: 94180
+  - id: ott125642
+    name: Chordata
+    rank: phylum
+    extant: true
+    leaves: 94214
+  - id: ott147604
+    name: Deuterostomia
+    rank: no rank
+    extant: true
+    leaves: 103395
+  - id: mrcaott42ott49
+    name: Deuterostomia and Protostomia
+    extant: true
+    leaves: 1471063
+  - id: ott117569
+    name: Bilateria
+    rank: no rank
+    extant: true
+    leaves: 1471516
+  - id: mrcaott42ott150
+    name: Bilateria and Cnidaria
+    extant: true
+    leaves: 1487309
+  - id: mrcaott42ott570365
+    name: Bilateria and Placozoa
+    extant: true
+    leaves: 1487313
+  - id: mrcaott42ott3989
+    name: Bilateria and Porifera
+    extant: true
+    leaves: 1497456
+  - id: ott691846
+    name: Metazoa
+    rank: kingdom
+    extant: true
+    leaves: 1497816
+  - id: mrcaott42ott34294
+    name: Metazoa and Choanoflagellida
+    extant: true
+    leaves: 1498090
+  - id: ott5246131
+    name: Holozoa
+    rank: no rank
+    extant: true
+    leaves: 1498236
+  - id: ott332573
+    name: Opisthokonta
+    rank: no rank
+    extant: true
+    leaves: 1774631
+  - id: ott304358
+    name: Eukaryota
+    rank: domain
+    extant: true
+    leaves: 2273496
+  - id: ott93302
+    name: cellular organisms
+    rank: no rank
+    extant: true
+    leaves: 2392042
+children:
+  - id: mrcaott83926ott3607676
+    name: Homo sapiens and Homo heidelbergensis
+    extant: true
+    leaves: 3
+  - id: ott3607681
+    name: Homo antecessor
+    rank: no rank
+    extant: false
+    leaves: 0
+imageUrl: null
