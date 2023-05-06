@@ -1,5 +1,5 @@
 ---
-version: 1.1.1
+version: 1.1.2
 id: ott297458
 name: Ursidae
 rank: family
@@ -197,5 +197,5 @@ authorship: null
 commonNames:
   - bear
 sources:
-  - id: 3dda0529-ab5e-41d1-823b-193f7bc2ab8a
+  - id: f9ffaaea-d085-457a-a508-7b38492a3951
     name: Mém. Soc. Imp. Nat. Moscow vol.5 p.372
