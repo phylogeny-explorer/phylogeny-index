@@ -3,7 +3,7 @@ id: ott244265
 name: Mammalia
 attributes:
   id: ott244265
-  leaves: 9378
+  leaves: 9381
   hasChildren: true
   extant: true
   rank: class
@@ -82,7 +82,7 @@ children:
     name: Yinotheria
     attributes:
       id: pep000001
-      leaves: 21
+      leaves: 24
       hasChildren: true
       extant: true
       rank: subclass
@@ -151,7 +151,7 @@ children:
         name: Australosphenida
         attributes:
           id: pep000010
-          leaves: 18
+          leaves: 21
           hasChildren: true
           extant: true
           rank: infraclass
@@ -281,7 +281,7 @@ children:
             name: Monotremata
             attributes:
               id: ott962396
-              leaves: 13
+              leaves: 16
               hasChildren: true
               extant: true
               rank: order
@@ -461,10 +461,103 @@ children:
                 name: Tachyglossidae
                 attributes:
                   id: ott344064
-                  leaves: 4
+                  leaves: 7
                   hasChildren: true
                   extant: true
                   rank: family
+                children:
+                  - id: pep000033
+                    name: Megalibgwilia
+                    attributes:
+                      id: pep000033
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000034
+                        name: Megalibgwilia robusta
+                        attributes:
+                          id: pep000034
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                      - id: pep000035
+                        name: Megalibgwilia ramsayi
+                        attributes:
+                          id: pep000035
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                  - id: pep000035
+                    name: Murrayglossus
+                    attributes:
+                      id: pep000035
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000036
+                        name: Murrayglossus hacketti
+                        attributes:
+                          id: pep000036
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                  - id: ott16047
+                    name: Tachyglossus
+                    attributes:
+                      id: ott16047
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+                    children:
+                      - id: ott16038
+                        name: Tachyglossus aculeatus
+                        attributes:
+                          id: ott16038
+                          leaves: 0
+                          hasChildren: false
+                          extant: true
+                          rank: species
+                  - id: ott565577
+                    name: Zaglossus
+                    attributes:
+                      id: ott565577
+                      leaves: 3
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+                    children:
+                      - id: ott3615204
+                        name: Zaglossus attenboroughii
+                        attributes:
+                          id: ott3615204
+                          leaves: 0
+                          hasChildren: false
+                          extant: true
+                          rank: species
+                      - id: ott3615201
+                        name: Zaglossus bartoni
+                        attributes:
+                          id: ott3615201
+                          leaves: 0
+                          hasChildren: false
+                          extant: true
+                          rank: species
+                      - id: ott565578
+                        name: Zaglossus bruijni
+                        attributes:
+                          id: ott565578
+                          leaves: 0
+                          hasChildren: false
+                          extant: true
+                          rank: species
   - id: pep000002
     name: Theriimorpha
     attributes:
