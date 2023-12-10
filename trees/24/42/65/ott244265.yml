@@ -412,7 +412,24 @@ children:
                   leaves: 9356
                   hasChildren: true
                   extant: true
-                  rank: no rank
+                  rank: superlegion
+                children:
+                  - id: pep000052
+                    name: Cladotheria
+                    attributes:
+                      id: pep000052
+                      leaves: 9356
+                      hasChildren: true
+                      extant: true
+                      rank: legion
+                  - id: pep000053
+                    name: Symmetrodonta
+                    attributes:
+                      id: pep000053
+                      leaves: 0
+                      hasChildren: true
+                      extant: false
+                      rank: legion
               - id: pep000047
                 name: Kuehneotheria
                 attributes:
@@ -420,7 +437,7 @@ children:
                   leaves: 0
                   hasChildren: true
                   extant: false
-                  rank: no rank
+                  rank: superlegion
           - id: pep000039
             name: Allotheria
             attributes:
