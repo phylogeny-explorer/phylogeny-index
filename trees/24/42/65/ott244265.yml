@@ -576,13 +576,14 @@ children:
           extant: true
           rank: no rank
         children:
-          - id: mrcaott42ott3607383
-            name: Boreoeutheria and Kennalestes
+          - id: pep000039
+            name: Allotheria
             attributes:
-              id: mrcaott42ott3607383
-              leaves: 8829
+              id: pep000039
+              leaves: 0
               hasChildren: true
-              extant: true
+              extant: false
+              rank: infraclass
             children:
               - id: mrcaott42ott3607429
                 name: Boreoeutheria and Gypsonictops
@@ -631,20 +632,20 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
-          - id: ott3607418
-            name: Prokennalestes
+          - id: pep000040
+            name: Holotheria
             attributes:
-              id: ott3607418
-              leaves: 1
+              id: pep000040
+              leaves: 9356
               hasChildren: true
-              extant: false
-              rank: no rank
+              extant: true
+              rank: infraclass
             children:
               - id: ott6147795
                 name: Prokennalestes minor
                 attributes:
                   id: ott6147795
-                  leaves: 0
+                  leaves: 9356
                   hasChildren: false
                   extant: false
                   rank: no rank
