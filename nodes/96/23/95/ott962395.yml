@@ -1,0 +1,133 @@
+---
+version: 1.1.2
+id: ott962395
+name: Prototheria
+rank: no rank
+extant: true
+leaves: 8
+dataSources:
+  - ncbi:9254
+hasChildren: true
+parentId: ott244265
+lineage:
+  - id: ott244265
+    name: Mammalia
+    rank: class
+    extant: true
+    leaves: 9365
+  - id: ott229560
+    name: Amniota
+    rank: no rank
+    extant: true
+    leaves: 41496
+  - id: ott229562
+    name: Tetrapoda
+    rank: superclass
+    extant: true
+    leaves: 51518
+  - id: ott4940726
+    name: Dipnotetrapodomorpha
+    rank: no rank
+    extant: true
+    leaves: 51529
+  - id: ott458402
+    name: Sarcopterygii
+    rank: superclass
+    extant: true
+    leaves: 51540
+  - id: ott114654
+    name: Euteleostomi
+    rank: no rank
+    extant: true
+    leaves: 89320
+  - id: ott114656
+    name: Teleostomi
+    rank: no rank
+    extant: true
+    leaves: 89320
+  - id: ott278114
+    name: Gnathostomata
+    rank: superclass
+    extant: true
+    leaves: 90978
+  - id: ott801601
+    name: Vertebrata
+    rank: subphylum
+    extant: true
+    leaves: 91115
+  - id: ott947318
+    name: Craniata
+    rank: subphylum
+    extant: true
+    leaves: 91115
+  - id: mrcaott42ott658
+    name: Craniata and Tunicata
+    extant: true
+    leaves: 94425
+  - id: ott125642
+    name: Chordata
+    rank: phylum
+    extant: true
+    leaves: 94459
+  - id: ott147604
+    name: Deuterostomia
+    rank: no rank
+    extant: true
+    leaves: 103640
+  - id: mrcaott42ott49
+    name: Deuterostomia and Protostomia
+    extant: true
+    leaves: 1471336
+  - id: ott117569
+    name: Bilateria
+    rank: no rank
+    extant: true
+    leaves: 1471789
+  - id: mrcaott42ott150
+    name: Bilateria and Cnidaria
+    extant: true
+    leaves: 1487582
+  - id: mrcaott42ott570365
+    name: Bilateria and Placozoa
+    extant: true
+    leaves: 1487586
+  - id: mrcaott42ott3989
+    name: Bilateria and Porifera
+    extant: true
+    leaves: 1497729
+  - id: ott691846
+    name: Metazoa
+    rank: kingdom
+    extant: true
+    leaves: 1498089
+  - id: mrcaott42ott34294
+    name: Metazoa and Choanoflagellida
+    extant: true
+    leaves: 1498363
+  - id: ott5246131
+    name: Holozoa
+    rank: no rank
+    extant: true
+    leaves: 1498509
+  - id: ott332573
+    name: Opisthokonta
+    rank: no rank
+    extant: true
+    leaves: 1774906
+  - id: ott304358
+    name: Eukaryota
+    rank: domain
+    extant: true
+    leaves: 2274032
+  - id: ott93302
+    name: cellular organisms
+    rank: no rank
+    extant: true
+    leaves: 2392578
+children:
+  - id: ott962396
+    name: Monotremata
+    rank: order
+    extant: true
+    leaves: 8
+imageUrl: https://upload.wikimedia.org/wikipedia/commons/4/42/Prototheria_collage.png
