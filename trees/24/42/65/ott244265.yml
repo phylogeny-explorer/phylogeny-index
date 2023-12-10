@@ -105,65 +105,6 @@ children:
               extant: true
               rank: order
             children:
-              - id: pep000025
-                name: Kryoryctes cadburyi
-                attributes:
-                  id: pep000025
-                  leaves: 0
-                  hasChildren: false
-                  extant: false
-                  rank: species
-              - id: pep000026
-                name: Kollikodontidae
-                attributes:
-                  id: pep000026
-                  leaves: 1
-                  hasChildren: true
-                  extant: false
-                  rank: family
-                children:
-                  - id: pep000027
-                    name: Kollikodon ritchiei
-                    attributes:
-                      id: pep000027
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-              - id: pep000028
-                name: Steropodontidae
-                attributes:
-                  id: pep000028
-                  leaves: 1
-                  hasChildren: true
-                  extant: false
-                  rank: family
-                children:
-                  - id: ott3615208
-                    name: Steropodon galmani
-                    attributes:
-                      id: ott3615208
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-              - id: pep000029
-                name: Teinolophidae
-                attributes:
-                  id: pep000029
-                  leaves: 1
-                  hasChildren: true
-                  extant: false
-                  rank: family
-                children:
-                  - id: ott4119277
-                    name: Teinolophos trusleri
-                    attributes:
-                      id: ott4119277
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
               - id: ott344066
                 name: Ornithorhynchidae
                 attributes:
@@ -305,6 +246,65 @@ children:
                           hasChildren: false
                           extant: true
                           rank: species
+              - id: pep000025
+                name: Kryoryctes cadburyi
+                attributes:
+                  id: pep000025
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000026
+                name: Kollikodontidae
+                attributes:
+                  id: pep000026
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: family
+                children:
+                  - id: pep000027
+                    name: Kollikodon ritchiei
+                    attributes:
+                      id: pep000027
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+              - id: pep000028
+                name: Steropodontidae
+                attributes:
+                  id: pep000028
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: family
+                children:
+                  - id: ott3615208
+                    name: Steropodon galmani
+                    attributes:
+                      id: ott3615208
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+              - id: pep000029
+                name: Teinolophidae
+                attributes:
+                  id: pep000029
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: family
+                children:
+                  - id: ott4119277
+                    name: Teinolophos trusleri
+                    attributes:
+                      id: ott4119277
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
           - id: pep000011
             name: Ausktribosphenida
             attributes:
