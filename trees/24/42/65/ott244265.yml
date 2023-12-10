@@ -384,11 +384,3 @@ children:
                   hasChildren: false
                   extant: false
                   rank: no rank
-  - id: ott4943691
-    name: mammal environmental sample
-    attributes:
-      id: ott4943691
-      leaves: 0
-      hasChildren: false
-      extant: true
-      rank: species
