@@ -172,39 +172,6 @@ children:
                   extant: true
                   rank: family
                 children:
-                  - id: pep000033
-                    name: Megalibgwilia
-                    attributes:
-                      id: pep000033
-                      leaves: 2
-                      hasChildren: true
-                      extant: false
-                      rank: genus
-                    children:
-                      - id: pep000034
-                        name: Megalibgwilia robusta
-                        attributes:
-                          id: pep000034
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
-                      - id: pep000035
-                        name: Megalibgwilia ramsayi
-                        attributes:
-                          id: pep000035
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
-                  - id: pep000035
-                    name: Murrayglossus hacketti
-                    attributes:
-                      id: pep000035
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
                   - id: ott16038
                     name: Tachyglossus aculeatus
                     attributes:
@@ -246,6 +213,39 @@ children:
                           hasChildren: false
                           extant: true
                           rank: species
+                  - id: pep000033
+                    name: Megalibgwilia
+                    attributes:
+                      id: pep000033
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000034
+                        name: Megalibgwilia robusta
+                        attributes:
+                          id: pep000034
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                      - id: pep000035
+                        name: Megalibgwilia ramsayi
+                        attributes:
+                          id: pep000035
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                  - id: pep000035
+                    name: Murrayglossus hacketti
+                    attributes:
+                      id: pep000035
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
               - id: pep000025
                 name: Kryoryctes cadburyi
                 attributes:
