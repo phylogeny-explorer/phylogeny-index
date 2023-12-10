@@ -78,15 +78,99 @@ attributes:
       name: cellular organisms
       extant: true
 children:
-  - id: ott229558
-    name: Theria
+  - id: pep000001
+    name: Yinotheria
     attributes:
-      id: ott229558
-      leaves: 9356
+      id: pep000001
+      leaves: 8
       hasChildren: true
       extant: true
       rank: subclass
     children:
+      - id: ott962396
+        name: Monotremata
+        attributes:
+          id: ott962396
+          leaves: 8
+          hasChildren: true
+          extant: true
+          rank: order
+        children:
+          - id: mrcaott79623ott3615208
+            name: Tachyglossidae and Steropodon
+            attributes:
+              id: mrcaott79623ott3615208
+              leaves: 7
+              hasChildren: true
+              extant: true
+            children:
+              - id: mrcaott79623ott962377
+                name: Tachyglossidae and Ornithorhynchidae
+                attributes:
+                  id: mrcaott79623ott962377
+                  leaves: 6
+                  hasChildren: true
+                  extant: true
+                children:
+                  - id: ott344064
+                    name: Tachyglossidae
+                    attributes:
+                      id: ott344064
+                      leaves: 4
+                      hasChildren: true
+                      extant: true
+                      rank: family
+                  - id: ott344066
+                    name: Ornithorhynchidae
+                    attributes:
+                      id: ott344066
+                      leaves: 2
+                      hasChildren: true
+                      extant: true
+                      rank: family
+              - id: ott3615209
+                name: Steropodon
+                attributes:
+                  id: ott3615209
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
+                children:
+                  - id: ott3615208
+                    name: Steropodon galmani
+                    attributes:
+                      id: ott3615208
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: no rank
+          - id: ott4119276
+            name: Teinolophos
+            attributes:
+              id: ott4119276
+              leaves: 1
+              hasChildren: true
+              extant: false
+              rank: no rank
+            children:
+              - id: ott4119277
+                name: Teinolophos trusleri
+                attributes:
+                  id: ott4119277
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: no rank
+  - id: pep000002
+    name: Theriimorpha
+    attributes:
+      id: pep000002
+      leaves: 9356
+      hasChildren: true
+      extant: true
+      rank: no rank
+      children:
       - id: ott683263
         name: Eutheria
         attributes:
@@ -300,87 +384,4 @@ children:
                       hasChildren: true
                       extant: true
                       rank: genus
-  - id: ott962395
-    name: Prototheria
-    attributes:
-      id: ott962395
-      leaves: 8
-      hasChildren: true
-      extant: true
-      rank: no rank
-    children:
-      - id: ott962396
-        name: Monotremata
-        attributes:
-          id: ott962396
-          leaves: 8
-          hasChildren: true
-          extant: true
-          rank: order
-        children:
-          - id: mrcaott79623ott3615208
-            name: Tachyglossidae and Steropodon
-            attributes:
-              id: mrcaott79623ott3615208
-              leaves: 7
-              hasChildren: true
-              extant: true
-            children:
-              - id: mrcaott79623ott962377
-                name: Tachyglossidae and Ornithorhynchidae
-                attributes:
-                  id: mrcaott79623ott962377
-                  leaves: 6
-                  hasChildren: true
-                  extant: true
-                children:
-                  - id: ott344064
-                    name: Tachyglossidae
-                    attributes:
-                      id: ott344064
-                      leaves: 4
-                      hasChildren: true
-                      extant: true
-                      rank: family
-                  - id: ott344066
-                    name: Ornithorhynchidae
-                    attributes:
-                      id: ott344066
-                      leaves: 2
-                      hasChildren: true
-                      extant: true
-                      rank: family
-              - id: ott3615209
-                name: Steropodon
-                attributes:
-                  id: ott3615209
-                  leaves: 1
-                  hasChildren: true
-                  extant: false
-                  rank: no rank
-                children:
-                  - id: ott3615208
-                    name: Steropodon galmani
-                    attributes:
-                      id: ott3615208
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: no rank
-          - id: ott4119276
-            name: Teinolophos
-            attributes:
-              id: ott4119276
-              leaves: 1
-              hasChildren: true
-              extant: false
-              rank: no rank
-            children:
-              - id: ott4119277
-                name: Teinolophos trusleri
-                attributes:
-                  id: ott4119277
-                  leaves: 0
-                  hasChildren: false
-                  extant: false
-                  rank: no rank
+    
