@@ -3,7 +3,7 @@ id: ott244265
 name: Mammalia
 attributes:
   id: ott244265
-  leaves: 9368
+  leaves: 9370
   hasChildren: true
   extant: true
   rank: class
@@ -82,7 +82,7 @@ children:
     name: Yinotheria
     attributes:
       id: pep000001
-      leaves: 11
+      leaves: 13
       hasChildren: true
       extant: true
       rank: subclass
@@ -151,11 +151,63 @@ children:
         name: Australosphenida
         attributes:
           id: pep000010
-          leaves: 8
+          leaves: 10
           hasChildren: true
           extant: true
           rank: infraclass
         children:
+          - id: pep000011
+            name: Ausktribosphenida
+            attributes:
+              id: pep000011
+              leaves: 2
+              hasChildren: true
+              extant: false
+              rank: order
+            children:
+              id: pep000012
+              name: Ausktribosphenidae
+              attributes:
+                id: pep000012
+                leaves: 2
+                hasChildren: true
+                extant: false
+                rank: family
+              children:
+                - id: pep000013
+                  name: Bishops
+                  attributes:
+                    id: pep000013
+                    leaves: 1
+                    hasChildren: true
+                    extant: false
+                    rank: genus
+                  children:
+                    - id: pep000014
+                      name: Bishops whitmorei
+                      attributes:
+                        id: pep000014
+                        leaves: 0
+                        hasChildren: false
+                        extant: false
+                        rank: species
+                - id: pep000015
+                  name: Ausktribosphenos
+                  attributes:
+                    id: pep000015
+                    leaves: 1
+                    hasChildren: true
+                    extant: false
+                    rank: genus
+                  children:
+                    - id: pep000016
+                      name: Ausktribosphenos nyktos
+                      attributes:
+                        id: pep000014
+                        leaves: 0
+                        hasChildren: false
+                        extant: false
+                        rank: species
           - id: ott962396
             name: Monotremata
             attributes:
