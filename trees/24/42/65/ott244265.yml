@@ -430,14 +430,6 @@ children:
                       hasChildren: true
                       extant: false
                       rank: legion
-              - id: pep000047
-                name: Kuehneotheria
-                attributes:
-                  id: pep000047
-                  leaves: 0
-                  hasChildren: true
-                  extant: false
-                  rank: superlegion
           - id: pep000039
             name: Allotheria
             attributes:
@@ -484,7 +476,7 @@ children:
         name: Eutriconodonta
         attributes:
           id: pep000038
-          leaves: 0
+          leaves: 7
           hasChildren: true
           extant: false
           rank: no rank
@@ -493,7 +485,7 @@ children:
             name: Amphilestidae
             attributes:
               id: pep000041
-              leaves: 0
+              leaves: 1
               hasChildren: true
               extant: false
               rank: family
@@ -507,15 +499,153 @@ children:
                   extant: false
                   rank: species
           - id: pep000042
-            name: Amphidontidae
+            name: Triconodontidae
             attributes:
               id: pep000042
-              leaves: 0
+              leaves: 6
               hasChildren: true
               extant: false
               rank: family
+            children:
+              - id: pep000057
+                name: Priacodon ferox
+                attributes:
+                  id: pep000057
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species 
+              - id: pep000054
+                name: Triconodon
+                attributes:
+                  id: pep000054
+                  leaves: 2
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000055
+                    name: Triconodon mordax
+                    attributes:
+                      id: pep000055
+                      leaves: 0
+                      hasChildren: false
+                      rank: species
+                  - id: pep000056
+                    name: Triconodon averianovi
+                    attributes:
+                      id: pep000056
+                      leaves: 0
+                      hasChildren: false
+                      rank: species
+              - id: pep000058
+                name: Trioracodon
+                attributes:
+                  id: pep000058
+                  leaves: 4
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000059
+                    name: Trioracodon bisulcus
+                    attributes:
+                      id: pep000059
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000060
+                    name: Trioracodon ferox
+                    attributes:
+                      id: pep000060
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000061
+                    name: Trioracodon major
+                    attributes:
+                      id: pep000061
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000062
+                    name: Trioracodon oweni
+                    attributes:
+                      id: pep000062
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+              - id: pep000063
+                name: Alticonodontinae
+                attributes:
+                  id: pep000063
+                  leaves: 14
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
+                children:
+                  - id: pep000064
+                    name: Arundelconodon hottoni
+                    attributes:
+                      id: pep000064
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000065
+                    name: Meiconodon
+                    attributes:
+                      id: pep000065
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                  - id: pep000066
+                    name: Astroconodon
+                    attributes:
+                      id: pep000066
+                      leaves: 3
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                  - id: pep000067
+                    name: Alticonodon lindoei
+                    attributes:
+                      id: pep000067
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000068
+                    name: Corviconodon
+                    attributes:
+                      id: pep000068
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                  - id: pep000069
+                    name: Jugulator amplissimus
+                    attributes:
+                      id: pep000069
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000070
+                    name: Volaticotherini
+                    attributes:
+                      id: pep000070
+                      leaves: 4
+                      hasChildren: true
+                      extant: false
+                      rank: no rank
           - id: pep000043
-            name: Gobiconodontidae
+            name: Amphidontidae
             attributes:
               id: pep000043
               leaves: 0
@@ -523,7 +653,7 @@ children:
               extant: false
               rank: family
           - id: pep000044
-            name: Triconodontidae
+            name: Gobiconodontidae
             attributes:
               id: pep000044
               leaves: 0
