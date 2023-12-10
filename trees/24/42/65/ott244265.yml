@@ -567,11 +567,11 @@ children:
       extant: true
       rank: no rank
     children:
-      - id: ott683263
-        name: Eutheria
+      - id: pep000037
+        name: Theriiformes
         attributes:
-          id: ott683263
-          leaves: 8830
+          id: pep000037
+          leaves: 9356
           hasChildren: true
           extant: true
           rank: no rank
@@ -648,11 +648,11 @@ children:
                   hasChildren: false
                   extant: false
                   rank: no rank
-      - id: ott16033
-        name: Metatheria
+      - id: pep000038
+        name: Eutriconodonta
         attributes:
-          id: ott16033
-          leaves: 526
+          id: pep000038
+          leaves: 0
           hasChildren: true
           extant: true
           rank: no rank
