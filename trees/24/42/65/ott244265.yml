@@ -594,18 +594,19 @@ children:
                   extant: false
                   rank: order
                 children:
-                  - id: mrcaott42ott3607455
-                    name: Boreoeutheria and Zalambdalestidae
+                  - id: pep000049
+                    name: Gondwanatheria
                     attributes:
-                      id: mrcaott42ott3607455
-                      leaves: 8826
+                      id: pep000049
+                      leaves: 0
                       hasChildren: true
-                      extant: true
-                  - id: ott3607416
-                    name: Gypsonictops
+                      extant: false
+                      rank: no rank
+                  - id: pep000050
+                    name: Cimolodonta
                     attributes:
-                      id: ott3607416
-                      leaves: 1
+                      id: pep000050
+                      leaves: 0
                       hasChildren: true
                       extant: false
                       rank: no rank
