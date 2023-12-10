@@ -106,22 +106,13 @@ children:
               rank: order
             children:
               - id: pep000025
-                name: Kryoryctes
+                name: Kryoryctes cadburyi
                 attributes:
                   id: pep000025
-                  leaves: 1
-                  hasChildren: true
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: genus
-                children:
-                  - id: pep000026
-                    name: Kryoryctes cadburyi
-                    attributes:
-                      id: pep000026
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
+                  rank: species
               - id: pep000026
                 name: Kollikodontidae
                 attributes:
@@ -132,22 +123,13 @@ children:
                   rank: family
                 children:
                   - id: pep000027
-                    name: Kollikodon
+                    name: Kollikodon ritchiei
                     attributes:
-                      id: pep000025
-                      leaves: 1
-                      hasChildren: true
+                      id: pep000027
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000028
-                        name: Kollikodon ritchiei
-                        attributes:
-                          id: pep000028
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
               - id: pep000028
                 name: Steropodontidae
                 attributes:
@@ -157,23 +139,14 @@ children:
                   extant: false
                   rank: family
                 children:
-                  - id: ott3615209
-                    name: Steropodon
+                  - id: ott3615208
+                    name: Steropodon galmani
                     attributes:
-                      id: ott3615209
-                      leaves: 1
-                      hasChildren: true
+                      id: ott3615208
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: ott3615208
-                        name: Steropodon galmani
-                        attributes:
-                          id: ott3615208
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
               - id: pep000029
                 name: Teinolophidae
                 attributes:
@@ -183,23 +156,14 @@ children:
                   extant: false
                   rank: family
                 children:
-                  - id: ott4119276
-                    name: Teinolophos
+                  - id: ott4119277
+                    name: Teinolophos trusleri
                     attributes:
-                      id: ott4119276
-                      leaves: 1
-                      hasChildren: true
+                      id: ott4119277
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: ott4119277
-                        name: Teinolophos trusleri
-                        attributes:
-                          id: ott4119277
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
               - id: ott344066
                 name: Ornithorhynchidae
                 attributes:
@@ -210,22 +174,13 @@ children:
                   rank: family
                 children:
                   - id: pep000030
-                    name: Monotrematum
+                    name: Monotrematum sudamericanum
                     attributes:
                       id: pep000030
-                      leaves: 1
-                      hasChildren: true
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000030
-                        name: Monotrematum sudamericanum
-                        attributes:
-                          id: pep000030
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
                   - id: ott3615207
                     name: Obdurodon
                     attributes:
@@ -259,23 +214,14 @@ children:
                           hasChildren: false
                           extant: false
                           rank: species
-                  - id: ott962391
-                    name: Ornithorhynchus
+                  - id: ott3615206
+                    name: Ornithorhynchus anatinus
                     attributes:
-                      id: ott962391
-                      leaves: 1
-                      hasChildren: true
+                      id: ott3615206
+                      leaves: 0
+                      hasChildren: false
                       extant: true
-                      rank: genus
-                    children:
-                      - id: ott3615206
-                        name: Ornithorhynchus anatinus
-                        attributes:
-                          id: ott3615206
-                          leaves: 0
-                          hasChildren: false
-                          extant: true
-                          rank: species
+                      rank: species
               - id: ott344064
                 name: Tachyglossidae
                 attributes:
@@ -311,39 +257,21 @@ children:
                           extant: false
                           rank: species
                   - id: pep000035
-                    name: Murrayglossus
+                    name: Murrayglossus hacketti
                     attributes:
                       id: pep000035
-                      leaves: 1
-                      hasChildren: true
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000036
-                        name: Murrayglossus hacketti
-                        attributes:
-                          id: pep000036
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
-                  - id: ott16047
-                    name: Tachyglossus
+                      rank: species
+                  - id: ott16038
+                    name: Tachyglossus aculeatus
                     attributes:
-                      id: ott16047
-                      leaves: 1
-                      hasChildren: true
+                      id: ott16038
+                      leaves: 0
+                      hasChildren: false
                       extant: true
-                      rank: genus
-                    children:
-                      - id: ott16038
-                        name: Tachyglossus aculeatus
-                        attributes:
-                          id: ott16038
-                          leaves: 0
-                          hasChildren: false
-                          extant: true
-                          rank: species
+                      rank: species
                   - id: ott565577
                     name: Zaglossus
                     attributes:
