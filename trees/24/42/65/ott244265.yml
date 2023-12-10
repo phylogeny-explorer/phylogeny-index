@@ -396,6 +396,31 @@ children:
           extant: true
           rank: no rank
         children:
+          - id: pep000040
+            name: Holotheria
+            attributes:
+              id: pep000040
+              leaves: 9356
+              hasChildren: true
+              extant: true
+              rank: infraclass
+            children:
+              - id: pep000048
+                name: Trechnotheria
+                attributes:
+                  id: pep000048
+                  leaves: 9356
+                  hasChildren: true
+                  extant: true
+                  rank: no rank
+              - id: pep000047
+                name: Kuehneotheria
+                attributes:
+                  id: pep000047
+                  leaves: 0
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
           - id: pep000039
             name: Allotheria
             attributes:
@@ -438,31 +463,6 @@ children:
                   hasChildren: true
                   extant: false
                   rank: order
-          - id: pep000040
-            name: Holotheria
-            attributes:
-              id: pep000040
-              leaves: 9356
-              hasChildren: true
-              extant: true
-              rank: infraclass
-            children:
-              - id: pep000047
-                name: Kuehneotheria
-                attributes:
-                  id: pep000047
-                  leaves: 0
-                  hasChildren: true
-                  extant: false
-                  rank: no rank
-              - id: pep000048
-                name: Trechnotheria
-                attributes:
-                  id: pep000048
-                  leaves: 9356
-                  hasChildren: true
-                  extant: true
-                  rank: no rank
       - id: pep000038
         name: Eutriconodonta
         attributes:
