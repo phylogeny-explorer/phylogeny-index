@@ -3,7 +3,7 @@ id: ott244265
 name: Mammalia
 attributes:
   id: ott244265
-  leaves: 9374
+  leaves: 9375
   hasChildren: true
   extant: true
   rank: class
@@ -82,7 +82,7 @@ children:
     name: Yinotheria
     attributes:
       id: pep000001
-      leaves: 17
+      leaves: 18
       hasChildren: true
       extant: true
       rank: subclass
@@ -151,7 +151,7 @@ children:
         name: Australosphenida
         attributes:
           id: pep000010
-          leaves: 14
+          leaves: 15
           hasChildren: true
           extant: true
           rank: infraclass
@@ -281,7 +281,7 @@ children:
             name: Monotremata
             attributes:
               id: ott962396
-              leaves: 9
+              leaves: 10
               hasChildren: true
               extant: true
               rank: order
@@ -303,6 +303,32 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
+              - id: pep000026
+                name: Kollikodontidae
+                attributes:
+                  id: pep000026
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: family
+                children:
+                  - id: pep000027
+                    name: Kollikodon
+                    attributes:
+                      id: pep000025
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000028
+                        name: Kollikodon ritchiei
+                        attributes:
+                          id: pep000028
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
               - id: mrcaott79623ott3615208
                 name: Tachyglossidae and Steropodon
                 attributes:
