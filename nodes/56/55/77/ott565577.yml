@@ -1,0 +1,179 @@
+---
+version: 1.1.2
+id: ott565577
+name: Zaglossus
+rank: genus
+extant: true
+leaves: 3
+dataSources:
+  - ncbi:33542
+  - gbif:2433384
+  - irmng:1068454
+hasChildren: true
+parentId: ott344064
+lineage:
+  - id: ott344064
+    name: Tachyglossidae
+    rank: family
+    extant: true
+    leaves: 4
+  - id: mrcaott79623ott962377
+    name: Tachyglossidae and Ornithorhynchidae
+    extant: true
+    leaves: 6
+  - id: mrcaott79623ott3615208
+    name: Tachyglossidae and Steropodon
+    extant: true
+    leaves: 7
+  - id: ott962396
+    name: Monotremata
+    rank: order
+    extant: true
+    leaves: 8
+  - id: ott962395
+    name: Prototheria
+    rank: no rank
+    extant: true
+    leaves: 8
+  - id: ott244265
+    name: Mammalia
+    rank: class
+    extant: true
+    leaves: 9365
+  - id: ott229560
+    name: Amniota
+    rank: no rank
+    extant: true
+    leaves: 41496
+  - id: ott229562
+    name: Tetrapoda
+    rank: superclass
+    extant: true
+    leaves: 51518
+  - id: ott4940726
+    name: Dipnotetrapodomorpha
+    rank: no rank
+    extant: true
+    leaves: 51529
+  - id: ott458402
+    name: Sarcopterygii
+    rank: superclass
+    extant: true
+    leaves: 51540
+  - id: ott114654
+    name: Euteleostomi
+    rank: no rank
+    extant: true
+    leaves: 89320
+  - id: ott114656
+    name: Teleostomi
+    rank: no rank
+    extant: true
+    leaves: 89320
+  - id: ott278114
+    name: Gnathostomata
+    rank: superclass
+    extant: true
+    leaves: 90978
+  - id: ott801601
+    name: Vertebrata
+    rank: subphylum
+    extant: true
+    leaves: 91115
+  - id: ott947318
+    name: Craniata
+    rank: subphylum
+    extant: true
+    leaves: 91115
+  - id: mrcaott42ott658
+    name: Craniata and Tunicata
+    extant: true
+    leaves: 94425
+  - id: ott125642
+    name: Chordata
+    rank: phylum
+    extant: true
+    leaves: 94459
+  - id: ott147604
+    name: Deuterostomia
+    rank: no rank
+    extant: true
+    leaves: 103640
+  - id: mrcaott42ott49
+    name: Deuterostomia and Protostomia
+    extant: true
+    leaves: 1471336
+  - id: ott117569
+    name: Bilateria
+    rank: no rank
+    extant: true
+    leaves: 1471789
+  - id: mrcaott42ott150
+    name: Bilateria and Cnidaria
+    extant: true
+    leaves: 1487582
+  - id: mrcaott42ott570365
+    name: Bilateria and Placozoa
+    extant: true
+    leaves: 1487586
+  - id: mrcaott42ott3989
+    name: Bilateria and Porifera
+    extant: true
+    leaves: 1497729
+  - id: ott691846
+    name: Metazoa
+    rank: kingdom
+    extant: true
+    leaves: 1498089
+  - id: mrcaott42ott34294
+    name: Metazoa and Choanoflagellida
+    extant: true
+    leaves: 1498363
+  - id: ott5246131
+    name: Holozoa
+    rank: no rank
+    extant: true
+    leaves: 1498509
+  - id: ott332573
+    name: Opisthokonta
+    rank: no rank
+    extant: true
+    leaves: 1774906
+  - id: ott304358
+    name: Eukaryota
+    rank: domain
+    extant: true
+    leaves: 2274032
+  - id: ott93302
+    name: cellular organisms
+    rank: no rank
+    extant: true
+    leaves: 2392578
+children:
+  - id: ott565578
+    name: Zaglossus bruijni
+    rank: species
+    extant: true
+    leaves: 0
+  - id: ott3615201
+    name: Zaglossus bartoni
+    rank: species
+    extant: true
+    leaves: 0
+  - id: ott3615204
+    name: Zaglossus attenboroughi
+    rank: species
+    extant: true
+    leaves: 0
+imageUrl: https://upload.wikimedia.org/wikipedia/commons/7/70/Specimen_export_list_containing_Zaglossus_BMNH_1939.3315_-_ZooKeys-255-103-g008.jpeg
+authorship:
+  name: Gill
+  year: 1877
+  isOriginalAuthor: false
+  sources:
+    - 40772e57-ef5c-4377-a30d-c70745239204
+commonNames:
+  - Eastern Long-beaked Echidna
+sources:
+  - id: 40772e57-ef5c-4377-a30d-c70745239204
+    name: Ann. Rec. Sci. Indus. vol.May p.171
