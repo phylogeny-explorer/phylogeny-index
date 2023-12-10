@@ -514,7 +514,7 @@ children:
                   leaves: 0
                   hasChildren: false
                   extant: false
-                  rank: species 
+                  rank: species
               - id: pep000054
                 name: Triconodon
                 attributes:
