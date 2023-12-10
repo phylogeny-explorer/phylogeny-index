@@ -170,7 +170,7 @@ children:
       hasChildren: true
       extant: true
       rank: no rank
-      children:
+    children:
       - id: ott683263
         name: Eutheria
         attributes:
