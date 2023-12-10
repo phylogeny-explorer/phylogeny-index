@@ -324,39 +324,21 @@ children:
                   rank: family
                 children:
                   - id: pep000013
-                    name: Bishops
+                    name: Bishops whitmorei
                     attributes:
                       id: pep000013
-                      leaves: 1
-                      hasChildren: true
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000014
-                        name: Bishops whitmorei
-                        attributes:
-                          id: pep000014
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
-                  - id: pep000015
-                    name: Ausktribosphenos
+                      rank: species
+                  - id: pep000014
+                    name: Ausktribosphenos nyktos
                     attributes:
-                      id: pep000015
-                      leaves: 1
-                      hasChildren: true
+                      id: pep000014
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000016
-                        name: Ausktribosphenos nyktos
-                        attributes:
-                          id: pep000014
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
           - id: pep000017
             name: Henosferida
             attributes:
@@ -375,57 +357,30 @@ children:
                   extant: false
                   rank: family
                 children:
-                  - id: pep000019
-                    name: Ambondro
+                  - id: pep000020
+                    name: Ambondro mahabo
                     attributes:
-                      id: pep000019
-                      leaves: 1
-                      hasChildren: true
+                      id: pep000020
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000020
-                        name: Ambondro mahabo
-                        attributes:
-                          id: pep000020
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
                   - id: pep000021
-                    name: Asfaltomylos
+                    name: Asfaltomylos patagonicus
                     attributes:
                       id: pep000021
-                      leaves: 1
-                      hasChildren: true
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000022
-                        name: Asfaltomylos patagonicus
-                        attributes:
-                          id: pep000022
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
-                  - id: pep000023
-                    name: Henosferus
+                      rank: species
+                  - id: pep000022
+                    name: Henosferus molus
                     attributes:
-                      id: pep000023
-                      leaves: 1
-                      hasChildren: true
+                      id: pep000022
+                      leaves: 0
+                      hasChildren: false
                       extant: false
-                      rank: genus
-                    children:
-                      - id: pep000024
-                        name: Henosferus molus
-                        attributes:
-                          id: pep000024
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: species
+                      rank: species
       - id: pep000003
         name: Shuotherida
         attributes:
@@ -445,22 +400,13 @@ children:
               rank: family
             children:
               - id: pep000005
-                name: Pseudotribos
+                name: Pseudotribos robustus
                 attributes:
                   id: pep000005
-                  leaves: 1
-                  hasChildren: true
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: genus
-                children:
-                  - id: pep000006
-                    name: Pseudotribos robustus
-                    attributes:
-                      id: pep000006
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
+                  rank: species
               - id: pep000007
                 name: Shuotherium
                 attributes:
