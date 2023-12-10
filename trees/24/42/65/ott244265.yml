@@ -1,0 +1,394 @@
+---
+id: ott244265
+name: Mammalia
+attributes:
+  id: ott244265
+  leaves: 9365
+  hasChildren: true
+  extant: true
+  rank: class
+  lineage:
+    - id: ott229560
+      name: Amniota
+      extant: true
+    - id: ott229562
+      name: Tetrapoda
+      extant: true
+    - id: ott4940726
+      name: Dipnotetrapodomorpha
+      extant: true
+    - id: ott458402
+      name: Sarcopterygii
+      extant: true
+    - id: ott114654
+      name: Euteleostomi
+      extant: true
+    - id: ott114656
+      name: Teleostomi
+      extant: true
+    - id: ott278114
+      name: Gnathostomata
+      extant: true
+    - id: ott801601
+      name: Vertebrata
+      extant: true
+    - id: ott947318
+      name: Craniata
+      extant: true
+    - id: mrcaott42ott658
+      name: Craniata and Tunicata
+      extant: true
+    - id: ott125642
+      name: Chordata
+      extant: true
+    - id: ott147604
+      name: Deuterostomia
+      extant: true
+    - id: mrcaott42ott49
+      name: Deuterostomia and Protostomia
+      extant: true
+    - id: ott117569
+      name: Bilateria
+      extant: true
+    - id: mrcaott42ott150
+      name: Bilateria and Cnidaria
+      extant: true
+    - id: mrcaott42ott570365
+      name: Bilateria and Placozoa
+      extant: true
+    - id: mrcaott42ott3989
+      name: Bilateria and Porifera
+      extant: true
+    - id: ott691846
+      name: Metazoa
+      extant: true
+    - id: mrcaott42ott34294
+      name: Metazoa and Choanoflagellida
+      extant: true
+    - id: ott5246131
+      name: Holozoa
+      extant: true
+    - id: ott332573
+      name: Opisthokonta
+      extant: true
+    - id: ott304358
+      name: Eukaryota
+      extant: true
+    - id: ott93302
+      name: cellular organisms
+      extant: true
+children:
+  - id: ott229558
+    name: Theria
+    attributes:
+      id: ott229558
+      leaves: 9356
+      hasChildren: true
+      extant: true
+      rank: subclass
+    children:
+      - id: ott683263
+        name: Eutheria
+        attributes:
+          id: ott683263
+          leaves: 8830
+          hasChildren: true
+          extant: true
+          rank: no rank
+        children:
+          - id: mrcaott42ott3607383
+            name: Boreoeutheria and Kennalestes
+            attributes:
+              id: mrcaott42ott3607383
+              leaves: 8829
+              hasChildren: true
+              extant: true
+            children:
+              - id: mrcaott42ott3607429
+                name: Boreoeutheria and Gypsonictops
+                attributes:
+                  id: mrcaott42ott3607429
+                  leaves: 8827
+                  hasChildren: true
+                  extant: true
+                children:
+                  - id: mrcaott42ott3607455
+                    name: Boreoeutheria and Zalambdalestidae
+                    attributes:
+                      id: mrcaott42ott3607455
+                      leaves: 8826
+                      hasChildren: true
+                      extant: true
+                  - id: ott3607416
+                    name: Gypsonictops
+                    attributes:
+                      id: ott3607416
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: no rank
+              - id: mrcaott3607383ott3607431
+                name: Asioryctes and Kennalestes
+                attributes:
+                  id: mrcaott3607383ott3607431
+                  leaves: 2
+                  hasChildren: true
+                  extant: false
+                children:
+                  - id: ott3607382
+                    name: Asioryctes
+                    attributes:
+                      id: ott3607382
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: no rank
+                  - id: ott3607432
+                    name: Kennalestes
+                    attributes:
+                      id: ott3607432
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: no rank
+          - id: ott3607418
+            name: Prokennalestes
+            attributes:
+              id: ott3607418
+              leaves: 1
+              hasChildren: true
+              extant: false
+              rank: no rank
+            children:
+              - id: ott6147795
+                name: Prokennalestes minor
+                attributes:
+                  id: ott6147795
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: no rank
+      - id: ott16033
+        name: Metatheria
+        attributes:
+          id: ott16033
+          leaves: 526
+          hasChildren: true
+          extant: true
+          rank: no rank
+        children:
+          - id: mrcaott6735ott29033
+            name: Diprotodontia and Didelphimorphia
+            attributes:
+              id: mrcaott6735ott29033
+              leaves: 517
+              hasChildren: true
+              extant: true
+            children:
+              - id: mrcaott6735ott905267
+                name: Diprotodontia and Microbiotheria
+                attributes:
+                  id: mrcaott6735ott905267
+                  leaves: 356
+                  hasChildren: true
+                  extant: true
+                children:
+                  - id: mrcaott6735ott70811
+                    name: Diprotodontia and Notoryctemorphia
+                    attributes:
+                      id: mrcaott6735ott70811
+                      leaves: 355
+                      hasChildren: true
+                      extant: true
+                  - id: ott277699
+                    name: Microbiotheria
+                    attributes:
+                      id: ott277699
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: order
+              - id: ott277697
+                name: Didelphimorphia
+                attributes:
+                  id: ott277697
+                  leaves: 161
+                  hasChildren: true
+                  extant: true
+                  rank: order
+                children:
+                  - id: ott16069
+                    name: Didelphidae
+                    attributes:
+                      id: ott16069
+                      leaves: 160
+                      hasChildren: true
+                      extant: true
+                      rank: family
+                  - id: ott3616591
+                    name: Kokopellia
+                    attributes:
+                      id: ott3616591
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: no rank
+          - id: ott277698
+            name: Paucituberculata
+            attributes:
+              id: ott277698
+              leaves: 9
+              hasChildren: true
+              extant: true
+              rank: order
+            children:
+              - id: ott987675
+                name: Caenolestidae
+                attributes:
+                  id: ott987675
+                  leaves: 8
+                  hasChildren: true
+                  extant: true
+                  rank: family
+                children:
+                  - id: ott44553
+                    name: Rhyncholestes
+                    attributes:
+                      id: ott44553
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+                  - id: ott141241
+                    name: Caenolestes
+                    attributes:
+                      id: ott141241
+                      leaves: 5
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+                  - id: ott659166
+                    name: Lestoros
+                    attributes:
+                      id: ott659166
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+                  - id: ott3606860
+                    name: Eomannodon
+                    attributes:
+                      id: ott3606860
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+              - id: ott6143260
+                name: Decastidae
+                attributes:
+                  id: ott6143260
+                  leaves: 1
+                  hasChildren: true
+                  extant: true
+                  rank: family
+                children:
+                  - id: ott3615266
+                    name: Dipilus
+                    attributes:
+                      id: ott3615266
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+  - id: ott962395
+    name: Prototheria
+    attributes:
+      id: ott962395
+      leaves: 8
+      hasChildren: true
+      extant: true
+      rank: no rank
+    children:
+      - id: ott962396
+        name: Monotremata
+        attributes:
+          id: ott962396
+          leaves: 8
+          hasChildren: true
+          extant: true
+          rank: order
+        children:
+          - id: mrcaott79623ott3615208
+            name: Tachyglossidae and Steropodon
+            attributes:
+              id: mrcaott79623ott3615208
+              leaves: 7
+              hasChildren: true
+              extant: true
+            children:
+              - id: mrcaott79623ott962377
+                name: Tachyglossidae and Ornithorhynchidae
+                attributes:
+                  id: mrcaott79623ott962377
+                  leaves: 6
+                  hasChildren: true
+                  extant: true
+                children:
+                  - id: ott344064
+                    name: Tachyglossidae
+                    attributes:
+                      id: ott344064
+                      leaves: 4
+                      hasChildren: true
+                      extant: true
+                      rank: family
+                  - id: ott344066
+                    name: Ornithorhynchidae
+                    attributes:
+                      id: ott344066
+                      leaves: 2
+                      hasChildren: true
+                      extant: true
+                      rank: family
+              - id: ott3615209
+                name: Steropodon
+                attributes:
+                  id: ott3615209
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
+                children:
+                  - id: ott3615208
+                    name: Steropodon galmani
+                    attributes:
+                      id: ott3615208
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: no rank
+          - id: ott4119276
+            name: Teinolophos
+            attributes:
+              id: ott4119276
+              leaves: 1
+              hasChildren: true
+              extant: false
+              rank: no rank
+            children:
+              - id: ott4119277
+                name: Teinolophos trusleri
+                attributes:
+                  id: ott4119277
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: no rank
+  - id: ott4943691
+    name: mammal environmental sample
+    attributes:
+      id: ott4943691
+      leaves: 0
+      hasChildren: false
+      extant: true
+      rank: species
