@@ -678,21 +678,22 @@ children:
               extant: false
               rank: family
             children:
-              - id: mrcaott6735ott905267
+              - id: pep000051
+                name: Amphilestes broderipii
+                attributes:
+                  id: pep000051
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000052
                 name: Diprotodontia and Microbiotheria
                 attributes:
-                  id: mrcaott6735ott905267
+                  id: pep000052
                   leaves: 356
                   hasChildren: true
                   extant: true
                 children:
-                  - id: mrcaott6735ott70811
-                    name: Diprotodontia and Notoryctemorphia
-                    attributes:
-                      id: mrcaott6735ott70811
-                      leaves: 355
-                      hasChildren: true
-                      extant: true
                   - id: ott277699
                     name: Microbiotheria
                     attributes:
