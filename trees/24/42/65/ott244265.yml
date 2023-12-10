@@ -585,13 +585,14 @@ children:
               extant: false
               rank: infraclass
             children:
-              - id: mrcaott42ott3607429
-                name: Boreoeutheria and Gypsonictops
+              - id: pep000045
+                name: Multituberculata
                 attributes:
-                  id: mrcaott42ott3607429
-                  leaves: 8827
+                  id: pep000045
+                  leaves: 0
                   hasChildren: true
-                  extant: true
+                  extant: false
+                  rank: order
                 children:
                   - id: mrcaott42ott3607455
                     name: Boreoeutheria and Zalambdalestidae
@@ -608,13 +609,14 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
-              - id: mrcaott3607383ott3607431
-                name: Asioryctes and Kennalestes
+              - id: pep000046
+                name: Haramiyida
                 attributes:
-                  id: mrcaott3607383ott3607431
-                  leaves: 2
+                  id: pep000046
+                  leaves: 0
                   hasChildren: true
                   extant: false
+                  rank: order
                 children:
                   - id: ott3607382
                     name: Asioryctes
