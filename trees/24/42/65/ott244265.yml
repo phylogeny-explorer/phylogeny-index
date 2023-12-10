@@ -643,13 +643,21 @@ children:
               extant: true
               rank: infraclass
             children:
-              - id: ott6147795
-                name: Prokennalestes minor
+              - id: pep000047
+                name: Kuehneotheria
                 attributes:
-                  id: ott6147795
-                  leaves: 9356
-                  hasChildren: false
+                  id: pep000047
+                  leaves: 0
+                  hasChildren: true
                   extant: false
+                  rank: no rank
+              - id: pep000048
+                name: Trechnotheria
+                attributes:
+                  id: pep000048
+                  leaves: 9356
+                  hasChildren: true
+                  extant: true
                   rank: no rank
       - id: pep000038
         name: Eutriconodonta
