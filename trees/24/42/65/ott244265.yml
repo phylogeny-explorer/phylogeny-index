@@ -782,3 +782,19 @@ children:
                       hasChildren: true
                       extant: true
                       rank: genus
+          - id: pep000043
+            name: Gobiconodontidae
+            attributes:
+              id: pep000043
+              leaves: 0
+              hasChildren: true
+              extant: false
+              rank: family
+          - id: pep000044
+            name: Triconodontidae
+            attributes:
+              id: pep000044
+              leaves: 0
+              hasChildren: true
+              extant: false
+              rank: family
