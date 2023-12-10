@@ -3,7 +3,7 @@ id: ott244265
 name: Mammalia
 attributes:
   id: ott244265
-  leaves: 9373
+  leaves: 9374
   hasChildren: true
   extant: true
   rank: class
@@ -82,7 +82,7 @@ children:
     name: Yinotheria
     attributes:
       id: pep000001
-      leaves: 16
+      leaves: 17
       hasChildren: true
       extant: true
       rank: subclass
@@ -151,7 +151,7 @@ children:
         name: Australosphenida
         attributes:
           id: pep000010
-          leaves: 13
+          leaves: 14
           hasChildren: true
           extant: true
           rank: infraclass
@@ -281,11 +281,28 @@ children:
             name: Monotremata
             attributes:
               id: ott962396
-              leaves: 8
+              leaves: 9
               hasChildren: true
               extant: true
               rank: order
             children:
+              - id: pep000025
+                name: Kryoryctes
+                attributes:
+                  id: pep000025
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000026
+                    name: Kryoryctes cadburyi
+                    attributes:
+                      id: pep000026
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
               - id: mrcaott79623ott3615208
                 name: Tachyglossidae and Steropodon
                 attributes:
