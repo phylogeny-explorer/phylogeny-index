@@ -337,56 +337,47 @@ children:
                   extant: false
                   rank: species
       - id: pep000003
-        name: Shuotherida
+        name: Shuotheriidae
         attributes:
           id: pep000003
           leaves: 3
           hasChildren: true
           extant: false
-          rank: order
+          rank: family
         children:
           - id: pep000004
-            name: Shuotheriidae
+            name: Pseudotribos robustus
             attributes:
               id: pep000004
-              leaves: 3
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
+          - id: pep000007
+            name: Shuotherium
+            attributes:
+              id: pep000007
+              leaves: 2
               hasChildren: true
               extant: false
-              rank: family
+              rank: genus
             children:
-              - id: pep000005
-                name: Pseudotribos robustus
+              - id: pep000008
+                name: Shuotherium dongi
                 attributes:
-                  id: pep000005
+                  id: pep000008
                   leaves: 0
                   hasChildren: false
                   extant: false
                   rank: species
-              - id: pep000007
-                name: Shuotherium
+              - id: pep000009
+                name: Shuotherium shilongi
                 attributes:
-                  id: pep000007
-                  leaves: 2
-                  hasChildren: true
+                  id: pep000009
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: genus
-                children:
-                  - id: pep000008
-                    name: Shuotherium dongi
-                    attributes:
-                      id: pep000008
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-                  - id: pep000009
-                    name: Shuotherium shilongi
-                    attributes:
-                      id: pep000009
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
+                  rank: species
   - id: pep000002
     name: Theriimorpha
     attributes:
@@ -447,23 +438,6 @@ children:
                   hasChildren: true
                   extant: false
                   rank: order
-                children:
-                  - id: ott3607382
-                    name: Asioryctes
-                    attributes:
-                      id: ott3607382
-                      leaves: 1
-                      hasChildren: true
-                      extant: false
-                      rank: no rank
-                  - id: ott3607432
-                    name: Kennalestes
-                    attributes:
-                      id: ott3607432
-                      leaves: 1
-                      hasChildren: true
-                      extant: false
-                      rank: no rank
           - id: pep000040
             name: Holotheria
             attributes:
@@ -515,47 +489,6 @@ children:
                   hasChildren: false
                   extant: false
                   rank: species
-              - id: pep000052
-                name: Diprotodontia and Microbiotheria
-                attributes:
-                  id: pep000052
-                  leaves: 356
-                  hasChildren: true
-                  extant: true
-                children:
-                  - id: ott277699
-                    name: Microbiotheria
-                    attributes:
-                      id: ott277699
-                      leaves: 1
-                      hasChildren: true
-                      extant: true
-                      rank: order
-              - id: ott277697
-                name: Didelphimorphia
-                attributes:
-                  id: ott277697
-                  leaves: 161
-                  hasChildren: true
-                  extant: true
-                  rank: order
-                children:
-                  - id: ott16069
-                    name: Didelphidae
-                    attributes:
-                      id: ott16069
-                      leaves: 160
-                      hasChildren: true
-                      extant: true
-                      rank: family
-                  - id: ott3616591
-                    name: Kokopellia
-                    attributes:
-                      id: ott3616591
-                      leaves: 1
-                      hasChildren: true
-                      extant: false
-                      rank: no rank
           - id: pep000042
             name: Amphidontidae
             attributes:
@@ -564,65 +497,6 @@ children:
               hasChildren: true
               extant: false
               rank: family
-            children:
-              - id: ott987675
-                name: Caenolestidae
-                attributes:
-                  id: ott987675
-                  leaves: 8
-                  hasChildren: true
-                  extant: true
-                  rank: family
-                children:
-                  - id: ott44553
-                    name: Rhyncholestes
-                    attributes:
-                      id: ott44553
-                      leaves: 1
-                      hasChildren: true
-                      extant: true
-                      rank: genus
-                  - id: ott141241
-                    name: Caenolestes
-                    attributes:
-                      id: ott141241
-                      leaves: 5
-                      hasChildren: true
-                      extant: true
-                      rank: genus
-                  - id: ott659166
-                    name: Lestoros
-                    attributes:
-                      id: ott659166
-                      leaves: 1
-                      hasChildren: true
-                      extant: true
-                      rank: genus
-                  - id: ott3606860
-                    name: Eomannodon
-                    attributes:
-                      id: ott3606860
-                      leaves: 1
-                      hasChildren: true
-                      extant: true
-                      rank: genus
-              - id: ott6143260
-                name: Decastidae
-                attributes:
-                  id: ott6143260
-                  leaves: 1
-                  hasChildren: true
-                  extant: true
-                  rank: family
-                children:
-                  - id: ott3615266
-                    name: Dipilus
-                    attributes:
-                      id: ott3615266
-                      leaves: 1
-                      hasChildren: true
-                      extant: true
-                      rank: genus
           - id: pep000043
             name: Gobiconodontidae
             attributes:
