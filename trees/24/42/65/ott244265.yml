@@ -254,133 +254,88 @@ children:
                   hasChildren: false
                   extant: false
                   rank: species
-              - id: pep000026
-                name: Kollikodontidae
+              - id: pep000027
+                name: Kollikodon ritchiei
                 attributes:
-                  id: pep000026
-                  leaves: 1
-                  hasChildren: true
+                  id: pep000027
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: family
-                children:
-                  - id: pep000027
-                    name: Kollikodon ritchiei
-                    attributes:
-                      id: pep000027
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-              - id: pep000028
-                name: Steropodontidae
+                  rank: species
+              - id: ott3615208
+                name: Steropodon galmani
                 attributes:
-                  id: pep000028
-                  leaves: 1
-                  hasChildren: true
+                  id: ott3615208
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: family
-                children:
-                  - id: ott3615208
-                    name: Steropodon galmani
-                    attributes:
-                      id: ott3615208
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-              - id: pep000029
-                name: Teinolophidae
+                  rank: species
+              - id: ott4119277
+                name: Teinolophos trusleri
                 attributes:
-                  id: pep000029
-                  leaves: 1
-                  hasChildren: true
+                  id: ott4119277
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: family
-                children:
-                  - id: ott4119277
-                    name: Teinolophos trusleri
-                    attributes:
-                      id: ott4119277
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-          - id: pep000011
-            name: Ausktribosphenida
+                  rank: species
+          - id: pep000012
+            name: Ausktribosphenidae
             attributes:
-              id: pep000011
+              id: pep000012
               leaves: 2
               hasChildren: true
               extant: false
-              rank: order
+              rank: family
             children:
-              - id: pep000012
-                name: Ausktribosphenidae
+              - id: pep000013
+                name: Bishops whitmorei
                 attributes:
-                  id: pep000012
-                  leaves: 2
-                  hasChildren: true
+                  id: pep000013
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: family
-                children:
-                  - id: pep000013
-                    name: Bishops whitmorei
-                    attributes:
-                      id: pep000013
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-                  - id: pep000014
-                    name: Ausktribosphenos nyktos
-                    attributes:
-                      id: pep000014
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-          - id: pep000017
-            name: Henosferida
+                  rank: species
+              - id: pep000014
+                name: Ausktribosphenos nyktos
+                attributes:
+                  id: pep000014
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+          - id: pep000018
+            name: Henosferidae
             attributes:
-              id: pep000017
+              id: pep000018
               leaves: 3
               hasChildren: true
               extant: false
-              rank: order
+              rank: family
             children:
-              - id: pep000018
-                name: Henosferidae
+              - id: pep000020
+                name: Ambondro mahabo
                 attributes:
-                  id: pep000018
-                  leaves: 3
-                  hasChildren: true
+                  id: pep000020
+                  leaves: 0
+                  hasChildren: false
                   extant: false
-                  rank: family
-                children:
-                  - id: pep000020
-                    name: Ambondro mahabo
-                    attributes:
-                      id: pep000020
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-                  - id: pep000021
-                    name: Asfaltomylos patagonicus
-                    attributes:
-                      id: pep000021
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-                  - id: pep000022
-                    name: Henosferus molus
-                    attributes:
-                      id: pep000022
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
+                  rank: species
+              - id: pep000021
+                name: Asfaltomylos patagonicus
+                attributes:
+                  id: pep000021
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000022
+                name: Henosferus molus
+                attributes:
+                  id: pep000022
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
       - id: pep000003
         name: Shuotherida
         attributes:
