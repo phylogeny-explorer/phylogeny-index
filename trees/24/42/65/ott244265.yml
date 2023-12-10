@@ -87,66 +87,6 @@ children:
       extant: true
       rank: subclass
     children:
-      - id: pep000003
-        name: Shuotherida
-        attributes:
-          id: pep000003
-          leaves: 3
-          hasChildren: true
-          extant: false
-          rank: order
-        children:
-          - id: pep000004
-            name: Shuotheriidae
-            attributes:
-              id: pep000004
-              leaves: 3
-              hasChildren: true
-              extant: false
-              rank: family
-            children:
-              - id: pep000005
-                name: Pseudotribos
-                attributes:
-                  id: pep000005
-                  leaves: 1
-                  hasChildren: true
-                  extant: false
-                  rank: genus
-                children:
-                  - id: pep000006
-                    name: Pseudotribos robustus
-                    attributes:
-                      id: pep000006
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-              - id: pep000007
-                name: Shuotherium
-                attributes:
-                  id: pep000007
-                  leaves: 2
-                  hasChildren: true
-                  extant: false
-                  rank: genus
-                children:
-                  - id: pep000008
-                    name: Shuotherium dongi
-                    attributes:
-                      id: pep000008
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-                  - id: pep000009
-                    name: Shuotherium shilongi
-                    attributes:
-                      id: pep000009
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
       - id: pep000010
         name: Australosphenida
         attributes:
@@ -277,6 +217,66 @@ children:
                           hasChildren: false
                           extant: false
                           rank: species
+      - id: pep000003
+        name: Shuotherida
+        attributes:
+          id: pep000003
+          leaves: 3
+          hasChildren: true
+          extant: false
+          rank: order
+        children:
+          - id: pep000004
+            name: Shuotheriidae
+            attributes:
+              id: pep000004
+              leaves: 3
+              hasChildren: true
+              extant: false
+              rank: family
+            children:
+              - id: pep000005
+                name: Pseudotribos
+                attributes:
+                  id: pep000005
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000006
+                    name: Pseudotribos robustus
+                    attributes:
+                      id: pep000006
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+              - id: pep000007
+                name: Shuotherium
+                attributes:
+                  id: pep000007
+                  leaves: 2
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000008
+                    name: Shuotherium dongi
+                    attributes:
+                      id: pep000008
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000009
+                    name: Shuotherium shilongi
+                    attributes:
+                      id: pep000009
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
           - id: ott962396
             name: Monotremata
             attributes:
