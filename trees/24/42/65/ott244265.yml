@@ -3,7 +3,7 @@ id: ott244265
 name: Mammalia
 attributes:
   id: ott244265
-  leaves: 9375
+  leaves: 9378
   hasChildren: true
   extant: true
   rank: class
@@ -82,7 +82,7 @@ children:
     name: Yinotheria
     attributes:
       id: pep000001
-      leaves: 18
+      leaves: 21
       hasChildren: true
       extant: true
       rank: subclass
@@ -151,7 +151,7 @@ children:
         name: Australosphenida
         attributes:
           id: pep000010
-          leaves: 15
+          leaves: 18
           hasChildren: true
           extant: true
           rank: infraclass
@@ -281,7 +281,7 @@ children:
             name: Monotremata
             attributes:
               id: ott962396
-              leaves: 10
+              leaves: 13
               hasChildren: true
               extant: true
               rank: order
@@ -381,19 +381,87 @@ children:
                           hasChildren: false
                           extant: false
                           rank: species
+              - id: ott344066
+                name: Ornithorhynchidae
+                attributes:
+                  id: ott344066
+                  leaves: 5
+                  hasChildren: true
+                  extant: true
+                  rank: family
+                children:
+                  - id: pep000030
+                    name: Monotrematum
+                    attributes:
+                      id: pep000030
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000030
+                        name: Monotrematum sudamericanum
+                        attributes:
+                          id: pep000030
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                  - id: ott3615207
+                    name: Obdurodon
+                    attributes:
+                      id: ott3615207
+                      leaves: 3
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: ott3615206
+                        name: Obdurodon dicksoni
+                        attributes:
+                          id: ott3615206
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                      - id: pep000031
+                        name: Obdurodon insignis
+                        attributes:
+                          id: pep000031
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                      - id: pep000032
+                        name: Obdurodon tharalkooschild
+                        attributes:
+                          id: pep000032
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                  - id: ott962391
+                    name: Ornithorhynchus
+                    attributes:
+                      id: ott962391
+                      leaves: 1
+                      hasChildren: true
+                      extant: true
+                      rank: genus
+                    children:
+                      - id: ott3615206
+                        name: Ornithorhynchus anatinus
+                        attributes:
+                          id: ott3615206
+                          leaves: 0
+                          hasChildren: false
+                          extant: true
+                          rank: species
               - id: ott344064
                 name: Tachyglossidae
                 attributes:
                   id: ott344064
                   leaves: 4
-                  hasChildren: true
-                  extant: true
-                  rank: family
-              - id: ott344066
-                name: Ornithorhynchidae
-                attributes:
-                  id: ott344066
-                  leaves: 2
                   hasChildren: true
                   extant: true
                   rank: family
