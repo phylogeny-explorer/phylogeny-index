@@ -165,49 +165,49 @@ children:
               extant: false
               rank: order
             children:
-              id: pep000012
-              name: Ausktribosphenidae
-              attributes:
-                id: pep000012
-                leaves: 2
-                hasChildren: true
-                extant: false
-                rank: family
-              children:
-                - id: pep000013
-                  name: Bishops
-                  attributes:
-                    id: pep000013
-                    leaves: 1
-                    hasChildren: true
-                    extant: false
-                    rank: genus
-                  children:
-                    - id: pep000014
-                      name: Bishops whitmorei
-                      attributes:
-                        id: pep000014
-                        leaves: 0
-                        hasChildren: false
-                        extant: false
-                        rank: species
-                - id: pep000015
-                  name: Ausktribosphenos
-                  attributes:
-                    id: pep000015
-                    leaves: 1
-                    hasChildren: true
-                    extant: false
-                    rank: genus
-                  children:
-                    - id: pep000016
-                      name: Ausktribosphenos nyktos
-                      attributes:
-                        id: pep000014
-                        leaves: 0
-                        hasChildren: false
-                        extant: false
-                        rank: species
+              - id: pep000012
+                name: Ausktribosphenidae
+                attributes:
+                  id: pep000012
+                  leaves: 2
+                  hasChildren: true
+                  extant: false
+                  rank: family
+                children:
+                  - id: pep000013
+                    name: Bishops
+                    attributes:
+                      id: pep000013
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000014
+                        name: Bishops whitmorei
+                        attributes:
+                          id: pep000014
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+                  - id: pep000015
+                    name: Ausktribosphenos
+                    attributes:
+                      id: pep000015
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: pep000016
+                        name: Ausktribosphenos nyktos
+                        attributes:
+                          id: pep000014
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
           - id: ott962396
             name: Monotremata
             attributes:
