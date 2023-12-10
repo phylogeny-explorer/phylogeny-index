@@ -355,55 +355,48 @@ children:
                           hasChildren: false
                           extant: false
                           rank: species
-              - id: mrcaott79623ott3615208
-                name: Tachyglossidae and Steropodon
+              - id: pep000029
+                name: Teinolophidae
                 attributes:
-                  id: mrcaott79623ott3615208
-                  leaves: 7
-                  hasChildren: true
-                  extant: true
-                children:
-                  - id: mrcaott79623ott962377
-                    name: Tachyglossidae and Ornithorhynchidae
-                    attributes:
-                      id: mrcaott79623ott962377
-                      leaves: 6
-                      hasChildren: true
-                      extant: true
-                    children:
-                      - id: ott344064
-                        name: Tachyglossidae
-                        attributes:
-                          id: ott344064
-                          leaves: 4
-                          hasChildren: true
-                          extant: true
-                          rank: family
-                      - id: ott344066
-                        name: Ornithorhynchidae
-                        attributes:
-                          id: ott344066
-                          leaves: 2
-                          hasChildren: true
-                          extant: true
-                          rank: family
-              - id: ott4119276
-                name: Teinolophos
-                attributes:
-                  id: ott4119276
+                  id: pep000029
                   leaves: 1
                   hasChildren: true
                   extant: false
-                  rank: no rank
+                  rank: family
                 children:
-                  - id: ott4119277
-                    name: Teinolophos trusleri
+                  - id: ott4119276
+                    name: Teinolophos
                     attributes:
-                      id: ott4119277
-                      leaves: 0
-                      hasChildren: false
+                      id: ott4119276
+                      leaves: 1
+                      hasChildren: true
                       extant: false
-                      rank: no rank
+                      rank: genus
+                    children:
+                      - id: ott4119277
+                        name: Teinolophos trusleri
+                        attributes:
+                          id: ott4119277
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
+              - id: ott344064
+                name: Tachyglossidae
+                attributes:
+                  id: ott344064
+                  leaves: 4
+                  hasChildren: true
+                  extant: true
+                  rank: family
+              - id: ott344066
+                name: Ornithorhynchidae
+                attributes:
+                  id: ott344066
+                  leaves: 2
+                  hasChildren: true
+                  extant: true
+                  rank: family
   - id: pep000002
     name: Theriimorpha
     attributes:
