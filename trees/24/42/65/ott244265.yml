@@ -655,16 +655,17 @@ children:
           id: pep000038
           leaves: 0
           hasChildren: true
-          extant: true
+          extant: false
           rank: no rank
         children:
-          - id: mrcaott6735ott29033
-            name: Diprotodontia and Didelphimorphia
+          - id: pep000041
+            name: Amphilestidae
             attributes:
-              id: mrcaott6735ott29033
-              leaves: 517
+              id: pep000041
+              leaves: 0
               hasChildren: true
-              extant: true
+              extant: false
+              rank: family
             children:
               - id: mrcaott6735ott905267
                 name: Diprotodontia and Microbiotheria
@@ -714,14 +715,14 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
-          - id: ott277698
-            name: Paucituberculata
+          - id: pep000042
+            name: Amphidontidae
             attributes:
-              id: ott277698
-              leaves: 9
+              id: pep000042
+              leaves: 0
               hasChildren: true
-              extant: true
-              rank: order
+              extant: false
+              rank: family
             children:
               - id: ott987675
                 name: Caenolestidae
