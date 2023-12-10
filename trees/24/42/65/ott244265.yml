@@ -329,6 +329,32 @@ children:
                           hasChildren: false
                           extant: false
                           rank: species
+              - id: pep000028
+                name: Steropodontidae
+                attributes:
+                  id: pep000028
+                  leaves: 1
+                  hasChildren: true
+                  extant: false
+                  rank: family
+                children:
+                  - id: ott3615209
+                    name: Steropodon
+                    attributes:
+                      id: ott3615209
+                      leaves: 1
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                    children:
+                      - id: ott3615208
+                        name: Steropodon galmani
+                        attributes:
+                          id: ott3615208
+                          leaves: 0
+                          hasChildren: false
+                          extant: false
+                          rank: species
               - id: mrcaott79623ott3615208
                 name: Tachyglossidae and Steropodon
                 attributes:
@@ -361,23 +387,6 @@ children:
                           hasChildren: true
                           extant: true
                           rank: family
-                  - id: ott3615209
-                    name: Steropodon
-                    attributes:
-                      id: ott3615209
-                      leaves: 1
-                      hasChildren: true
-                      extant: false
-                      rank: no rank
-                    children:
-                      - id: ott3615208
-                        name: Steropodon galmani
-                        attributes:
-                          id: ott3615208
-                          leaves: 0
-                          hasChildren: false
-                          extant: false
-                          rank: no rank
               - id: ott4119276
                 name: Teinolophos
                 attributes:
