@@ -800,7 +800,7 @@ children:
                   leaves: 0
                   hasChildren: false
                   extant: false
-                  rank: species 
+                  rank: species
           - id: pep000044
             name: Gobiconodontidae
             attributes:
@@ -948,7 +948,7 @@ children:
                   leaves: 0
                   hasChildren: false
                   extant: false
-                  rank: species 
+                  rank: species
               - id: pep000099
                 name: Yanoconodon allini
                 attributes:
@@ -956,7 +956,7 @@ children:
                   leaves: 0
                   hasChildren: false
                   extant: false
-                  rank: species 
+                  rank: species
           - id: pep000100
             name: Klameliidae
             attributes:
@@ -973,7 +973,7 @@ children:
                   leaves: 0
                   hasChildren: false
                   extant: false
-                  rank: species 
+                  rank: species
               - id: pep000102
                 name: Ferganodon narynensis
                 attributes:
@@ -981,4 +981,4 @@ children:
                   leaves: 0
                   hasChildren: false
                   extant: false
-                  rank: species 
+                  rank: species
