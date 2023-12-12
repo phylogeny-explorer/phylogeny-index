@@ -490,37 +490,6 @@ children:
               extant: false
               rank: family
             children:
-              - id: pep000057
-                name: Priacodon ferox
-                attributes:
-                  id: pep000057
-                  leaves: 0
-                  hasChildren: false
-                  extant: false
-                  rank: species
-              - id: pep000054
-                name: Triconodon
-                attributes:
-                  id: pep000054
-                  leaves: 2
-                  hasChildren: true
-                  extant: false
-                  rank: genus
-                children:
-                  - id: pep000055
-                    name: Triconodon mordax
-                    attributes:
-                      id: pep000055
-                      leaves: 0
-                      hasChildren: false
-                      rank: species
-                  - id: pep000056
-                    name: Triconodon averianovi
-                    attributes:
-                      id: pep000056
-                      leaves: 0
-                      hasChildren: false
-                      rank: species
               - id: pep000058
                 name: Trioracodon
                 attributes:
@@ -627,6 +596,53 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
+              - id: pep000073
+                name: Eotriconodon sophron
+                attributes:
+                  id: pep000057
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000058
+                name: Priacodon ferox
+                attributes:
+                  id: pep000058
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000054
+                name: Triconodon
+                attributes:
+                  id: pep000054
+                  leaves: 2
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000055
+                    name: Triconodon mordax
+                    attributes:
+                      id: pep000055
+                      leaves: 0
+                      hasChildren: false
+                      rank: species
+                  - id: pep000056
+                    name: Triconodon averianovi
+                    attributes:
+                      id: pep000056
+                      leaves: 0
+                      hasChildren: false
+                      rank: species
+              - id: pep000059
+                name: Victoriaconodon inaequalis
+                attributes:
+                  id: pep000059
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
           - id: pep000041
             name: Amphilestidae
             attributes:
