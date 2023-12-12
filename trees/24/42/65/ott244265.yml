@@ -588,14 +588,6 @@ children:
                       hasChildren: true
                       extant: false
                       rank: genus
-                  - id: pep000070
-                    name: Volaticotherini
-                    attributes:
-                      id: pep000070
-                      leaves: 4
-                      hasChildren: true
-                      extant: false
-                      rank: no rank
               - id: pep000073
                 name: Eotriconodon sophron
                 attributes:
@@ -641,6 +633,47 @@ children:
                 name: Victoriaconodon inaequalis
                 attributes:
                   id: pep000059
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+          - id: pep000070
+            name: Volaticotherini
+            attributes:
+              id: pep000070
+              leaves: 4
+              hasChildren: true
+              extant: false
+              rank: no rank
+            children:
+              - id: pep000103
+                name: Argentoconodon fariasorum
+                attributes:
+                  id: pep000103
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000104
+                name: Ichthyoconodon jaworowskorum
+                attributes:
+                  id: pep000104
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000104
+                name: Triconolestes curvicuspis
+                attributes:
+                  id: pep000104
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000104
+                name: Volaticotherium antiquum
+                attributes:
+                  id: pep000104
                   leaves: 0
                   hasChildren: false
                   extant: false
