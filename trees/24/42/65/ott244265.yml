@@ -662,6 +662,22 @@ children:
                   hasChildren: false
                   extant: false
                   rank: species
+              - id: pep000074
+                name: Kemchugia magna
+                attributes:
+                  id: pep000074
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000075
+                name: Liaotherium gracile
+                attributes:
+                  id: pep000075
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
               - id: pep000071
                 name: Phascolotherium
                 attributes:
