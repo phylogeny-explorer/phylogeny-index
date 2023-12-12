@@ -711,6 +711,55 @@ children:
               hasChildren: true
               extant: false
               rank: family
+            children:
+              - id: pep000075
+                name: Acinacodus tagaricus
+                attributes:
+                  id: pep000075
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000076
+                name: Amphidon aequicrurius
+                attributes:
+                  id: pep000076
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000077
+                name: Manchurodon simplicidens
+                attributes:
+                  id: pep000077
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000078
+                name: Nakunodon paikasiensis
+                attributes:
+                  id: pep000078
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000079
+                name: Aploconodon comoensis
+                attributes:
+                  id: pep000079
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000080
+                name: Comodon gidleyi
+                attributes:
+                  id: pep000080
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
           - id: pep000044
             name: Gobiconodontidae
             attributes:
