@@ -571,30 +571,6 @@ children:
                   extant: false
                   rank: no rank
                 children:
-                  - id: pep000064
-                    name: Arundelconodon hottoni
-                    attributes:
-                      id: pep000064
-                      leaves: 0
-                      hasChildren: false
-                      extant: false
-                      rank: species
-                  - id: pep000065
-                    name: Meiconodon
-                    attributes:
-                      id: pep000065
-                      leaves: 2
-                      hasChildren: true
-                      extant: false
-                      rank: genus
-                  - id: pep000066
-                    name: Astroconodon
-                    attributes:
-                      id: pep000066
-                      leaves: 3
-                      hasChildren: true
-                      extant: false
-                      rank: genus
                   - id: pep000067
                     name: Alticonodon lindoei
                     attributes:
@@ -603,6 +579,22 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
+                  - id: pep000064
+                    name: Arundelconodon hottoni
+                    attributes:
+                      id: pep000064
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000066
+                    name: Astroconodon
+                    attributes:
+                      id: pep000066
+                      leaves: 3
+                      hasChildren: true
+                      extant: false
+                      rank: genus
                   - id: pep000068
                     name: Corviconodon
                     attributes:
@@ -619,6 +611,14 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
+                  - id: pep000065
+                    name: Meiconodon
+                    attributes:
+                      id: pep000065
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: genus
                   - id: pep000070
                     name: Volaticotherini
                     attributes:
