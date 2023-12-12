@@ -842,3 +842,60 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
+          - id: pep000088
+            name: Hangjinia chowi
+            attributes:
+              id: pep000088
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
+          - id: pep000089
+            name: Huasteconodon wiblei
+            attributes:
+              id: pep000089
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
+          - id: pep000090
+            name: Meemannodon lujiatunensis
+            attributes:
+              id: pep000090
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
+          - id: pep000091
+            name: Repenomamus
+            attributes:
+              id: pep000091
+              leaves: 7
+              hasChildren: true
+              extant: false
+              rank: genus
+            children:
+              - id: pep000092
+                name: Repenomamus giganticus
+                attributes:
+                  id: pep000092
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000093
+                name: Repenomamus robustus
+                attributes:
+                  id: pep000093
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+          - id: pep000094
+            name: Spinolestes xenarthrosus
+            attributes:
+              id: pep000094
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
