@@ -776,3 +776,69 @@ children:
               hasChildren: true
               extant: false
               rank: family
+            children:
+              - id: pep000082
+                name: Gobiconodon
+                attributes:
+                  id: pep000082
+                  leaves: 7
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000082
+                    name: Gobiconodon bathoniensis
+                    attributes:
+                      id: pep000082
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000083
+                    name: Gobiconodon borissiaki
+                    attributes:
+                      id: pep000083
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000084
+                    name: Gobiconodon hoburensis
+                    attributes:
+                      id: pep000084
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000085
+                    name: Gobiconodon hopsoni
+                    attributes:
+                      id: pep000085
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000086
+                    name: Gobiconodon luoianus
+                    attributes:
+                      id: pep000086
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000087
+                    name: Gobiconodon ostromi
+                    attributes:
+                      id: pep000087
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000088
+                    name: Gobiconodon zofiae
+                    attributes:
+                      id: pep000088
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
