@@ -412,7 +412,7 @@ children:
                   leaves: 9356
                   hasChildren: true
                   extant: true
-                  rank: superlegion
+                  rank: no rank
                 children:
                   - id: pep000052
                     name: Cladotheria
@@ -421,7 +421,7 @@ children:
                       leaves: 9356
                       hasChildren: true
                       extant: true
-                      rank: legion
+                      rank: no rank
                   - id: pep000053
                     name: Spalacotheriidae
                     attributes:
@@ -429,7 +429,15 @@ children:
                       leaves: 0
                       hasChildren: true
                       extant: false
-                      rank: legion
+                      rank: family
+                  - id: pep000105
+                    name: Zhangheotheriidae
+                    attributes:
+                      id: pep000105
+                      leaves: 0
+                      hasChildren: true
+                      extant: false
+                      rank: family
           - id: pep000039
             name: Allotheria
             attributes:
