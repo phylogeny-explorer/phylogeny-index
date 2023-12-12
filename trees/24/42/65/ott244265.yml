@@ -703,6 +703,14 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
+          - id: pep000081
+            name: Tendagurodon janenschi
+            attributes:
+              id: pep000081
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
           - id: pep000043
             name: Amphidontidae
             attributes:
