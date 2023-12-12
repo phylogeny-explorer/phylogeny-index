@@ -627,6 +627,7 @@ children:
                       id: pep000055
                       leaves: 0
                       hasChildren: false
+                      extant: false
                       rank: species
                   - id: pep000056
                     name: Triconodon averianovi
@@ -634,6 +635,7 @@ children:
                       id: pep000056
                       leaves: 0
                       hasChildren: false
+                      extant: false
                       rank: species
               - id: pep000059
                 name: Victoriaconodon inaequalis
@@ -675,6 +677,7 @@ children:
                       id: pep000072
                       leaves: 0
                       hasChildren: false
+                      extant: false
                       rank: species
                   - id: pep000073
                     name: Phascolotherium simpsoni
@@ -682,6 +685,7 @@ children:
                       id: pep000073
                       leaves: 0
                       hasChildren: false
+                      extant: false
                       rank: species
           - id: pep000043
             name: Amphidontidae
