@@ -423,7 +423,7 @@ children:
                       extant: true
                       rank: legion
                   - id: pep000053
-                    name: Symmetrodonta
+                    name: Spalacotheriidae
                     attributes:
                       id: pep000053
                       leaves: 0
