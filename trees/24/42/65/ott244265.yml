@@ -442,11 +442,60 @@ children:
             name: Allotheria
             attributes:
               id: pep000039
-              leaves: 0
+              leaves: 11
               hasChildren: true
               extant: false
               rank: infraclass
             children:
+              - id: pep000106
+                name: Euharamiyida
+                attributes:
+                  id: pep000106
+                  leaves: 11
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
+                children:
+                  - id: pep000107
+                    name: Sineleutherus
+                    attributes:
+                      id: pep000107
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: genus
+                  - id: pep000108
+                    name: Shenshou lui
+                    attributes:
+                      id: pep000108
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000109
+                    name: Eleutherodontidae
+                    attributes:
+                      id: pep000109
+                      leaves: 3
+                      hasChildren: true
+                      extant: false
+                      rank: family
+                  - id: pep000110
+                    name: Arboroharamiyidae
+                    attributes:
+                      id: pep000110
+                      leaves: 5
+                      hasChildren: true
+                      extant: false
+                      rank: family
+              - id: pep000046
+                name: Haramiyida
+                attributes:
+                  id: pep000046
+                  leaves: 0
+                  hasChildren: true
+                  extant: false
+                  rank: order
               - id: pep000045
                 name: Multituberculata
                 attributes:
@@ -472,14 +521,6 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
-              - id: pep000046
-                name: Haramiyida
-                attributes:
-                  id: pep000046
-                  leaves: 0
-                  hasChildren: true
-                  extant: false
-                  rank: order
       - id: pep000038
         name: Eutriconodonta
         attributes:
