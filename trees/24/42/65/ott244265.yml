@@ -703,14 +703,6 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
-          - id: pep000081
-            name: Tendagurodon janenschi
-            attributes:
-              id: pep000081
-              leaves: 0
-              hasChildren: false
-              extant: false
-              rank: species
           - id: pep000043
             name: Amphidontidae
             attributes:
@@ -768,6 +760,47 @@ children:
                   hasChildren: false
                   extant: false
                   rank: species
+          - id: pep000081
+            name: Tendagurodon janenschi
+            attributes:
+              id: pep000081
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
+          - id: pep000082
+            name: Chaoyangodens lii
+            attributes:
+              id: pep000082
+              leaves: 0
+              hasChildren: false
+              extant: false
+              rank: species
+          - id: pep000095
+            name: Dyskritodon
+            attributes:
+              id: pep000095
+              leaves: 7
+              hasChildren: true
+              extant: false
+              rank: genus
+            children:
+              - id: pep000096
+                name: Dyskritodon amazighi
+                attributes:
+                  id: pep000096
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000097
+                name: Dyskritodon indicus
+                attributes:
+                  id: pep000097
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species 
           - id: pep000044
             name: Gobiconodontidae
             attributes:
@@ -899,3 +932,53 @@ children:
                   hasChildren: false
                   extant: false
                   rank: species
+          - id: pep000097
+            name: Jeholodentidae
+            attributes:
+              id: pep000097
+              leaves: 0
+              hasChildren: true
+              extant: false
+              rank: family
+            children:
+              - id: pep000098
+                name: Jeholodens jenkinsi
+                attributes:
+                  id: pep000098
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species 
+              - id: pep000099
+                name: Yanoconodon allini
+                attributes:
+                  id: pep000099
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species 
+          - id: pep000100
+            name: Klameliidae
+            attributes:
+              id: pep000100
+              leaves: 0
+              hasChildren: true
+              extant: false
+              rank: family
+            children:
+              - id: pep000101
+                name: Klamelia zhaopengi
+                attributes:
+                  id: pep000101
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species 
+              - id: pep000102
+                name: Ferganodon narynensis
+                attributes:
+                  id: pep000102
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species 
