@@ -481,46 +481,6 @@ children:
           extant: false
           rank: no rank
         children:
-          - id: pep000041
-            name: Amphilestidae
-            attributes:
-              id: pep000041
-              leaves: 1
-              hasChildren: true
-              extant: false
-              rank: family
-            children:
-              - id: pep000051
-                name: Amphilestes broderipii
-                attributes:
-                  id: pep000051
-                  leaves: 0
-                  hasChildren: false
-                  extant: false
-                  rank: species
-              - id: pep000071
-                name: Phascolotherium
-                attributes:
-                  id: pep000071
-                  leaves: 2
-                  hasChildren: true
-                  extant: false
-                  rank: genus
-                children:
-                  - id: pep000072
-                    name: Phascolotherium bucklandi
-                    attributes:
-                      id: pep000072
-                      leaves: 0
-                      hasChildren: false
-                      rank: species
-                  - id: pep000073
-                    name: Phascolotherium simpsoni
-                    attributes:
-                      id: pep000073
-                      leaves: 0
-                      hasChildren: false
-                      rank: species
           - id: pep000042
             name: Triconodontidae
             attributes:
@@ -667,6 +627,46 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
+          - id: pep000041
+            name: Amphilestidae
+            attributes:
+              id: pep000041
+              leaves: 1
+              hasChildren: true
+              extant: false
+              rank: family
+            children:
+              - id: pep000051
+                name: Amphilestes broderipii
+                attributes:
+                  id: pep000051
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: pep000071
+                name: Phascolotherium
+                attributes:
+                  id: pep000071
+                  leaves: 2
+                  hasChildren: true
+                  extant: false
+                  rank: genus
+                children:
+                  - id: pep000072
+                    name: Phascolotherium bucklandi
+                    attributes:
+                      id: pep000072
+                      leaves: 0
+                      hasChildren: false
+                      rank: species
+                  - id: pep000073
+                    name: Phascolotherium simpsoni
+                    attributes:
+                      id: pep000073
+                      leaves: 0
+                      hasChildren: false
+                      rank: species
           - id: pep000043
             name: Amphidontidae
             attributes:
