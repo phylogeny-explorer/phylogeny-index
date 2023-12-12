@@ -438,6 +438,47 @@ children:
                       hasChildren: true
                       extant: false
                       rank: family
+              - id: pep000111
+                name: Kuehneotheria
+                attributes:
+                  id: pep000111
+                  leaves: 0
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
+                children:
+                  - id: pep000112
+                    name: Kuehneon duchyense
+                    attributes:
+                      id: pep000112
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000113
+                    name: Trishulotherium kotaensis
+                    attributes:
+                      id: pep000113
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: pep000114
+                    name: Woutersiidae
+                    attributes:
+                      id: pep000114
+                      leaves: 2
+                      hasChildren: true
+                      extant: false
+                      rank: family
+                  - id: pep000115
+                    name: Kuehneotherium praecursoris
+                    attributes:
+                      id: pep000115
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
           - id: pep000039
             name: Allotheria
             attributes:
