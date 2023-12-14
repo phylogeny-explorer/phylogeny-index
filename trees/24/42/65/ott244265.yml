@@ -611,14 +611,70 @@ children:
                   extant: false
                   rank: order
                 children:
-                  - id: pep000050
-                    name: Cimolodonta
+                  - id: 5a829f769f867c16f46afcac
+                    name: Sinobaatar lingyuanensis
                     attributes:
-                      id: pep000050
+                      id: 5a829f769f867c16f46afcac
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a829f769f867c16f46afcad
+                    name: Rugosodon eurasiaticus
+                    attributes:
+                      id: 5a829f769f867c16f46afcad
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a829fee2e16901720c6fdd7
+                    name: Ptilodontidae
+                    attributes:
+                      id: 5a829fee2e16901720c6fdd7
                       leaves: 0
                       hasChildren: true
                       extant: false
-                      rank: no rank
+                      rank: family
+                  - id: 5a82a1562c8d3617a45f8315
+                    name: Plagiaulacida
+                    attributes:
+                      id: 5a82a1562c8d3617a45f8315
+                      leaves: 0
+                      hasChildren: true
+                      extant: false
+                      rank: suborder
+                  - id: 5a82a2be11cbae18286a2066
+                    name: Ameribaatar zofiae
+                    attributes:
+                      id: 5a82a2be11cbae18286a2066
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: Arginbaatar dimitrievae
+                    name: Arginbaatar dimitrievae
+                    attributes:
+                      id: Arginbaatar dimitrievae
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a82b3dbb067da1ee4aeb905
+                    name: Kermackodon multicuspis
+                    attributes:
+                      id: 5a82b3dbb067da1ee4aeb905
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a82b45353ccd51f1215579f
+                    name: Hahnotherium antiquum
+                    attributes:
+                      id: 5a82b45353ccd51f1215579f
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
               - id: 5a829f3bf8d97216dea7861c
                 name: Gondwanatheria
                 attributes:
@@ -627,6 +683,15 @@ children:
                   hasChildren: true
                   extant: false
                   rank: no rank
+                children:
+                  - id: 5a829dd284fdb7165a27030a
+                    name: Haramiyavia clemmenseni
+                    attributes:
+                      id: 5a829dd284fdb7165a27030a
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
       - id: pep000038
         name: Eutriconodonta
         attributes:
