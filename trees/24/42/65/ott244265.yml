@@ -495,19 +495,19 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
-          - id: pep000039
+          - id: 5a829ce2586c4316021d4479
             name: Allotheria
             attributes:
-              id: pep000039
+              id: 5a829ce2586c4316021d4479
               leaves: 11
               hasChildren: true
               extant: false
               rank: infraclass
             children:
-              - id: pep000106
+              - id: 5a829d5a27fcd5162e30cf90
                 name: Euharamiyida
                 attributes:
-                  id: pep000106
+                  id: 5a829d5a27fcd5162e30cf90
                   leaves: 11
                   hasChildren: true
                   extant: false
@@ -545,31 +545,72 @@ children:
                       hasChildren: true
                       extant: false
                       rank: family
-              - id: pep000046
+              - id: 5a829d96daa48716447c6b30
+                name: Fractinus palmorum
+                attributes:
+                  id: 5a829d96daa48716447c6b30
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: 5a829dd284fdb7165a27030b
                 name: Haramiyida
                 attributes:
-                  id: pep000046
-                  leaves: 0
-                  hasChildren: true
-                  extant: false
-                  rank: order
-              - id: pep000045
-                name: Multituberculata
-                attributes:
-                  id: pep000045
+                  id: 5a829dd284fdb7165a27030b
                   leaves: 0
                   hasChildren: true
                   extant: false
                   rank: order
                 children:
-                  - id: pep000049
-                    name: Gondwanatheria
+                  - id: 5a829dd284fdb7165a27030a
+                    name: Haramiyavia clemmenseni
                     attributes:
-                      id: pep000049
+                      id: 5a829dd284fdb7165a27030a
                       leaves: 0
-                      hasChildren: true
+                      hasChildren: false
                       extant: false
-                      rank: no rank
+                      rank: species
+                  - id: 5a9b1cc26021d4582f668fd5
+                    name: Kirtlingtonia catenata
+                    attributes:
+                      id: 5a9b1cc26021d4582f668fd5
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a9b1e2a045de858b3d31968
+                    name: Millsodon superstes
+                    attributes:
+                      id: 5a9b1e2a045de858b3d31968
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a9b1e67fc9dfa58c9fe60a6
+                    name: Theroteinus nikolai
+                    attributes:
+                      id: 5a9b1e67fc9dfa58c9fe60a6
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+              - id: 5a829efea19b6516c8f322e5
+                name: Microlestes antiquus
+                attributes:
+                  id: 5a829efea19b6516c8f322e5
+                  leaves: 0
+                  hasChildren: false
+                  extant: false
+                  rank: species
+              - id: 5a829efea19b6516c8f322e6
+                name: Multituberculata
+                attributes:
+                  id: 5a829efea19b6516c8f322e6
+                  leaves: 0
+                  hasChildren: true
+                  extant: false
+                  rank: order
+                children:
                   - id: pep000050
                     name: Cimolodonta
                     attributes:
@@ -578,6 +619,14 @@ children:
                       hasChildren: true
                       extant: false
                       rank: no rank
+              - id: 5a829f3bf8d97216dea7861c
+                name: Gondwanatheria
+                attributes:
+                  id: 5a829f3bf8d97216dea7861c
+                  leaves: 0
+                  hasChildren: true
+                  extant: false
+                  rank: no rank
       - id: pep000038
         name: Eutriconodonta
         attributes:
