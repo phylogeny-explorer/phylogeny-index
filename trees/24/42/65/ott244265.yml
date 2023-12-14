@@ -627,14 +627,14 @@ children:
                       hasChildren: false
                       extant: false
                       rank: species
-                  - id: 5a829fee2e16901720c6fdd7
-                    name: Ptilodontidae
+                  - id: pep000005
+                    name: Cimolodonta
                     attributes:
-                      id: 5a829fee2e16901720c6fdd7
+                      id: pep000005
                       leaves: 0
                       hasChildren: true
                       extant: false
-                      rank: family
+                      rank: suborder
                   - id: 5a82a1562c8d3617a45f8315
                     name: Plagiaulacida
                     attributes:
@@ -684,10 +684,34 @@ children:
                   extant: false
                   rank: no rank
                 children:
-                  - id: 5a829dd284fdb7165a27030a
-                    name: Haramiyavia clemmenseni
+                  - id: pep000015
+                    name: Adalatherium hui
                     attributes:
-                      id: 5a829dd284fdb7165a27030a
+                      id: pep000015
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a82b506ddb34d1f54a9371c
+                    name: Patagonia peregrina
+                    attributes:
+                      id: 5a82b506ddb34d1f54a9371c
+                      leaves: 0
+                      hasChildren: false
+                      extant: false
+                      rank: species
+                  - id: 5a82b506ddb34d1f54a9371d
+                    name: Sudamericidae
+                    attributes:
+                      id: 5a82b506ddb34d1f54a9371d
+                      leaves: 0
+                      hasChildren: true
+                      extant: false
+                      rank: family
+                  - id: 5a82b506ddb34d1f54a9371e
+                    name: Trapalcotherium matuastensis
+                    attributes:
+                      id: 5a82b506ddb34d1f54a9371e
                       leaves: 0
                       hasChildren: false
                       extant: false
